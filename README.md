@@ -2,8 +2,8 @@ DSA Notes
 =========
 
 
-Design
-------
+:art: Design
+------------
 
 * Design code before writing:
   - To have a plan & avoid getting stuck.
@@ -57,8 +57,18 @@ Design
 * Cannot be resized at runtime; must re-allocate buffer & copy.
 
 
-Books
------
+<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px"
+/> Videos
+---------
+
+* BINARY TREES
+  - [Binary tree traversal - breadth-first and depth-first strategies](https://youtu.be/9RHO6jU--GU) - mycodeschool
+* HEAPS
+  - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
+
+
+:books: Books
+-------------
 
 * [Programming Interviews Exposed](https://web.archive.org/web/20200218054807/http://www.piexposed.com/)
 * [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
