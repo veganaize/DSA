@@ -95,5 +95,5 @@ Graphs
 48. [Course Schedule](https://leetcode.com/problems/course-schedule/) **
 49. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) **
 
-
-
+_*  = Easy_  
+_** = Medium_  
