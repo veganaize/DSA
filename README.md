@@ -1,5 +1,6 @@
-DSA Notes
-=========
+[Data Structure](https://en.wikipedia.org/wiki/Data_structure) & 
+[Algorithm](https://en.wikipedia.org/wiki/Algorithm) Notes
+================
 
 
 :art: Design
