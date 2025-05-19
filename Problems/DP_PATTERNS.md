@@ -26,10 +26,35 @@
 [Distinct Ways](https://leetcode.com/list/55ajm50i)
 ---------------
 
+17. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) _(easy)_
+18. [Unique Paths](https://leetcode.com/problems/unique-paths/) _(medium)_
+19. [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) _(medium)_
+20. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) _(medium)_
+21. [Target Sum](https://leetcode.com/problems/target-sum/) _(medium)_
+22. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) _(medium)_
+23. [Knight Dialer](https://leetcode.com/problems/knight-dialer/) _(medium)_
+24. [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) _(medium)_
+25. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) _(medium)_
+26. [Soup Servings](https://leetcode.com/problems/soup-servings/) _(medium)_
+27. [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) _(medium)_
+28. [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) _(medium)_
+29. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) _(medium)_
+30. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) _(medium)_
+31. [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) _(medium)_
+32. [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) _(hard)_
+33. [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) _(hard)_
 
 
 [Merging Intervals](https://leetcode.com/list/55aj8s16)
 -------------------
+
+34. [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) _(medium)_
+35. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) _(medium)_
+36. [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) _(medium)_
+37. [Remove Boxes](https://leetcode.com/problems/remove-boxes/) _(medium)_
+38. [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) _(medium)_
+39. [Burst Balloons](https://leetcode.com/problems/burst-balloons/) _(hard)_
+40. [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) _(medium)_
 
 
 [DP on Strings](https://leetcode.com/list/55afh7m7)
