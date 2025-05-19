@@ -60,6 +60,15 @@
 [DP on Strings](https://leetcode.com/list/55afh7m7)
 ---------------
 
+41. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) _(medium)_
+42. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) _(medium)_
+43. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) _(medium)_
+44. [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) _(medium)_
+45. [Edit Distance](https://leetcode.com/problems/edit-distance/) _(hard)_
+46. [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) _(hard)_
+47. [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) _(medium)_
+48. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) _(medium)_
+
 
 [Decision Making](https://leetcode.com/list/55af7bu7)
 -----------------
