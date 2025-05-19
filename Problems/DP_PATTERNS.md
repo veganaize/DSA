@@ -73,3 +73,9 @@
 [Decision Making](https://leetcode.com/list/55af7bu7)
 -----------------
 
+49. [House Robber](https://leetcode.com/problems/house-robber/) _(easy)_
+50. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) _(easy)_
+51. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) _(medium)_
+52. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) _(medium)_
+53. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) _(hard)_
+54. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) _(hard)_
