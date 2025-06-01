@@ -1,5 +1,7 @@
-[The Pareto Problem Set](https://www.amanmanazir.com/leetcode)
-========================
+[✨ The Pareto Problem Set](https://leetcode.com/problem-list/2yvx2ha6/)
+===========================
+
+_<https://www.amanmanazir.com/leetcode>_
 
 
 Arrays & Hashing
