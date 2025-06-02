@@ -9,9 +9,9 @@ Arrays & Hashing
 
 01. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) *
 02. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) *
-03. [Two Sum](https://leetcode.com/problems/two-sum/) *
+03. [Two Sum](https://leetcode.com/problems/two-sum/) * _([official editorial](https://leetcode.com/problems/two-sum/editorial/))_
 04. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **
-05. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) **
+05. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) ** _([official editorial](https://leetcode.com/problems/top-k-frequent-elements/editorial/#solution-article))_
 06. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) **
 07. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **
 08. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **
