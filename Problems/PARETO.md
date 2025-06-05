@@ -13,7 +13,7 @@ Arrays & Hashing
 04. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) **
 05. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) ** _([official editorial](https://leetcode.com/problems/top-k-frequent-elements/editorial/#solution-article)) ([neetcode video](https://youtu.be/YPTqKIgVk-k))_
 06. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) ** ([neetcode video](https://youtu.be/TjFXEUCMqI8))
-07. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) **
+07. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ** ([neetcode video](https://youtu.be/bNvIQI2wAjk))
 08. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **
 
 
