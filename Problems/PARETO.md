@@ -14,7 +14,7 @@ Arrays & Hashing
 05. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) ** _([official editorial](https://leetcode.com/problems/top-k-frequent-elements/editorial/#solution-article)) ([neetcode video](https://youtu.be/YPTqKIgVk-k))_
 06. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) ** _([neetcode video](https://youtu.be/TjFXEUCMqI8))_
 07. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ** _([neetcode video](https://youtu.be/bNvIQI2wAjk))_
-08. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) **
+08. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ** _([neetcode video](https://youtu.be/P6RZZMu_maU))_
 
 
 Two Pointers
