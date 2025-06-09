@@ -22,7 +22,7 @@ Two Pointers
 
 09. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) *
 10. [Two Sum II Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) **
-11. [3Sum](https://leetcode.com/problems/3sum/) **
+11. [3Sum](https://leetcode.com/problems/3sum/) ** _([neetcode explanation](https://neetcode.io/solutions/3sum))_
 12. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) **
 
 
