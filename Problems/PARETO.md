@@ -31,7 +31,7 @@ Sliding Window
 
 13. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=2yvx2ha6) *
 14. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=2yvx2ha6) **
-15. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/?envType=problem-list-v2&envId=2yvx2ha6) **
+15. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/?envType=problem-list-v2&envId=2yvx2ha6) ** _([neetcode explanation](https://neetcode.io/solutions/longest-repeating-character-replacement))_
 
 
 Stack
