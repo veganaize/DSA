@@ -39,7 +39,7 @@ Stack
 
 16. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=2yvx2ha6) *
 17. [Min Stack](https://leetcode.com/problems/min-stack/description/?envType=problem-list-v2&envId=2yvx2ha6) **
-18. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/?envType=problem-list-v2&envId=2yvx2ha6) **
+18. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/?envType=problem-list-v2&envId=2yvx2ha6) ** _([neetcode explanation](https://neetcode.io/solutions/daily-temperatures))_
 
 
 Binary Search
