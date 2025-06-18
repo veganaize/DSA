@@ -47,7 +47,7 @@ Binary Search
 
 19. [Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=2yvx2ha6) *
 20. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=2yvx2ha6) **
-21. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=2yvx2ha6) **
+21. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=2yvx2ha6) ** _([neetcode explanation](https://neetcode.io/solutions/search-in-rotated-sorted-array))_
 
 
 Linked List
