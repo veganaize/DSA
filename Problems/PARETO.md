@@ -58,7 +58,7 @@ Linked List
 24. [Reorder List](https://leetcode.com/problems/reorder-list/description/?envType=problem-list-v2&envId=2yvx2ha6) **
 25. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=2yvx2ha6) **
 26. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=2yvx2ha6) *
-27. [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=2yvx2ha6) **
+27. [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=2yvx2ha6) ** _([neetcode explanation](https://neetcode.io/solutions/lru-cache))_
 
 
 Trees
