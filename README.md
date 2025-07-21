@@ -79,4 +79,6 @@
   - [Set & Map Implementations](https://docs.google.com/document/d/e/2PACX-1vRWfoJWWNp49cIZxDCZPkvQ2o8WOImKWLkimF7lhnsY-CmT1kREPP0duEKmnXyf-rPG1B0QGsxmcITy/pub)
   - [Monotonic Stacks & Queues](https://docs.google.com/document/d/e/2PACX-1vT29T3Tfvdkd-IGI2HCIgtAbWwYZ76pHCSlTkuyHiCvRqU5BD6S6_MJWcZl0Rgw1C2uhMykFFkNLHDu/pub)
   - [Union-Find](https://docs.google.com/document/d/e/2PACX-1vRwYsi-g1CKIDpbfhB5Xm9Lp1-OL1ooVI5i3kR4yFMX2ME14ODGZva9dabMM8Pe-Tduj4on8V8TGviZ/pub)
+  - [\[Python\] Interview Cheat Sheet](https://docs.google.com/document/d/1LtXh1oew6pZ9D4s5mw_33jzA2UwBfnv9jWh1bkSRTCc)
+  - [Post-Mortem](https://docs.google.com/spreadsheets/d/1phKTGfnQtuElTQ4BQSBfa1H5QO1-Ip9j8NRVZkR_FTk)
   - [All problems, solutions & test cases](https://bctci.co/all-problems)
