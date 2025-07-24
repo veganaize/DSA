@@ -15,3 +15,21 @@ Arrays & Strings
 |  7 | Rotate Matrix          | 🟠 | [Rotate Image](https://leetcode.com/problems/rotate-image/)
 |  8 | Zero Martrix           | 🟠 | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 |  9 | String Rotation        | 🟢 | [Rotate String](https://leetcode.com/problems/rotate-string/)
+
+
+Linked Lists
+------------
+
+|    | CTCI                   |    | LEET
+|----|------------------------|----|-----
+|  1 | Remove Dups            | 🟠 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) 🔒
+|  2 | Return Kth to Last     | 🟠 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)*
+|  3 | Delete Middle Node     | 🟠 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+|  4 | Partition              | 🟠 | [Partition List](https://leetcode.com/problems/partition-list/)
+|  5 | Sum Lists              | 🟠 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+|  6 | Palindrome             | 🟢 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+|  7 | Intersection           | 🟢 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+|  8 | Loop Detection         | 🟠 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+
+_* = Similar_
