@@ -67,7 +67,7 @@ Trees
 28. 🟢 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 29. 🟢 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 30. 🟢 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _(neetcode [problem](https://neetcode.io/problems/binary-tree-diameter) / [solution](https://neetcode.io/solutions/binary-tree-diameter))_
-31. 🟢 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
+31. 🟢 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/balanced-binary-tree))_
 32. 🟢 [Same Tree](https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 33. 🟢 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 34. 🟠 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
