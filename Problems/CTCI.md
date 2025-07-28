@@ -35,4 +35,17 @@ Linked Lists
 |  8 | Loop Detection         | 🟠 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 
+Stacks and Queues
+-----------------
+
+|    | CTCI                  |    | LEET
+|----|-----------------------|----|-----
+|  1 | Three in One          |    |
+|  2 | Stack Min             | 🟠 | [Min Stack](https://leetcode.com/problems/min-stack/)
+|  3 | Stack of Plates       | 🔴 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
+|  4 | Queue via Stacks      | 🟢 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+|  5 | Sort Stack            |    |
+|  6 | Animal Shelter        |    |
+
+
 _* = Similar_
