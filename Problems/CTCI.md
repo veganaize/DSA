@@ -64,7 +64,7 @@ Trees and Graphs
 |  9 | BST Sequences         | 🟥 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)*
 | 10 | Check Subtree         | 🟩 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 | 11 | Random Note           |    |
-| 12 | Paths with Sum        | 🟧 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+| 12 | Paths with Sum        | 🟧 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 
 
 _* = Similar_
