@@ -21,7 +21,7 @@
 * Complexities:
   - Lookup by index: `O(1)` time
   - Lookup by value: `O(n)` time
-  - Insertion / Deletion: `O(n)` time
+  - Insertion / Deletion: `Amortized O(1)` / `O(n)` time
 
 
 [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
