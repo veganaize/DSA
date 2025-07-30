@@ -48,4 +48,23 @@ Stacks and Queues
 |  6 | Animal Shelter        |    |
 
 
+Trees and Graphs
+----------------
+
+|    | CTCI                  |    | LEET
+|----|-----------------------|----|-----
+|  1 | Route Between Nodes   | 🟩 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)*
+|  2 | Minimal Tree          | 🟩 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+|  3 | List of Depths        | 🟧 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+|  4 | Check Balanced        | 🟩 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+|  5 | Validate BST          | 🟧 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+|  6 | Successor             | 🟧 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) 🔒
+|  7 | Build Order           | 🟧 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+|  8 | First Common Ancestor | 🟧 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+|  9 | BST Sequences         | 🟥 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)*
+| 10 | Check Subtree         | 🟩 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+| 11 | Random Note           |    |
+| 12 | Paths with Sum        | 🟧 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+
+
 _* = Similar_
