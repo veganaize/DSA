@@ -67,4 +67,25 @@ Trees and Graphs
 | 12 | Paths with Sum        | 🟧 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 
 
+Recursion and Dynamic Programming
+---------------------------------
+
+|    | CTCI                      |    | LEET
+|----|---------------------------|----|-----
+|  1 | Triple Step               | 🟩 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+|  2 | Robot in a Grid           | 🟧 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+|  3 | Magic Index               |    |
+|  4 | Power Set                 | 🟧 | [Subsets](https://leetcode.com/problems/subsets/)
+|  5 | Recursive Multiply        | 🟧 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)*
+|  6 | Towers of Hanoi           |    |
+|  7 | Permutations without Dups | 🟧 | [Permutations](https://leetcode.com/problems/permutations/)
+|  8 | Permutations with Dups    | 🟧 | [Permutations II](https://leetcode.com/problems/permutations-ii/)
+|  9 | Parens                    | 🟧 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+| 10 | Paint Fill                | 🟩 | [Flood Fill](https://leetcode.com/problems/flood-fill/)
+| 11 | Coins                     | 🟧 | [Coin Change II](https://leetcode.com/problems/coin-change-2/)
+| 12 | Eight Queens              | 🟥 | [N-Queens](https://leetcode.com/problems/n-queens/)
+| 13 | Stack of Boxes            | 🟥 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)*
+| 14 | Boolean Evaluation        |    |
+
+
 _* = Similar_
