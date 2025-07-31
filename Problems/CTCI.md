@@ -25,7 +25,7 @@ Linked Lists
 
 |    | CTCI                   |    | LEET
 |----|------------------------|----|-----
-|  1 | Remove Dups            | 🟧 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) [🔒](https://leetcode.ca/2020-12-09-1836-Remove-Duplicates-From-an-Unsorted-Linked-List/)
+|  1 | Remove Dups            | 🟧 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) 🔒
 |  2 | Return Kth to Last     | 🟧 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)*
 |  3 | Delete Middle Node     | 🟧 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 |  4 | Partition              | 🟧 | [Partition List](https://leetcode.com/problems/partition-list/)
