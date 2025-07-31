@@ -88,4 +88,22 @@ Recursion & Dynamic Programming
 | 14 | Boolean Evaluation        |    |
 
 
+Sorting & Searching
+-------------------
+
+|    | CTCI                      |    | LEET
+|----|---------------------------|----|-----
+|  1 | Sorted Merge              | 🟩 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+|  2 | Group Anagrams            | 🟧 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+|  3 | Search in Rotated Array   | 🟧 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+|  4 | Sorted Search, No Size    | 🟧 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) 🔒
+|  5 | Sparse Search             |    |
+|  6 | Sort Big File             |    |
+|  7 | Missint int               | 🟩 | [Missing Number](https://leetcode.com/problems/missing-number/)
+|  8 | Find Duplicates           | 🟧 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+|  9 | Sorted Matrix Search      | 🟧 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+| 10 | Rank from Stream          | 🟩 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+| 11 | Peaks and Valleys         | 🟧 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) 🔒
+
+
 _* = Similar_
