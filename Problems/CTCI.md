@@ -12,8 +12,8 @@ Arrays & Strings
 |  1 | Is Unique              | 🟩 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 |  2 | Check Permutation      | 🟩 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 |  3 | URLify                 | 
-|  4 | Palindrome Permutation | 🟩 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) [🔒](https://leetcode.ca/2016-08-22-266-Palindrome-Permutation/)
-|  5 | One Away               | 🟧 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) [🔒](https://leetcode.ca/2016-05-09-161-One-Edit-Distance/)
+|  4 | Palindrome Permutation | 🟩 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒
+|  5 | One Away               | 🟧 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) 🔒
 |  6 | String Compression     | 🟧 | [String Compression](https://leetcode.com/problems/string-compression/)
 |  7 | Rotate Matrix          | 🟧 | [Rotate Image](https://leetcode.com/problems/rotate-image/)
 |  8 | Zero Martrix           | 🟧 | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
@@ -99,10 +99,10 @@ Sorting & Searching
 |  4 | Sorted Search, No Size    | 🟧 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) 🔒
 |  5 | Sparse Search             |    |
 |  6 | Sort Big File             |    |
-|  7 | Missint int               | 🟩 | [Missing Number](https://leetcode.com/problems/missing-number/)
+|  7 | Missint int               | 🟩 | [Missing Number](https://leetcode.com/problems/missing-number/)*
 |  8 | Find Duplicates           | 🟧 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 |  9 | Sorted Matrix Search      | 🟧 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-| 10 | Rank from Stream          | 🟩 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+| 10 | Rank from Stream          | 🟩 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)*
 | 11 | Peaks and Valleys         | 🟧 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) 🔒
 
 
