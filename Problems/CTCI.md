@@ -35,8 +35,8 @@ Linked Lists
 |  8 | Loop Detection         | 🟧 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 
-Stacks and Queues
------------------
+Stacks & Queues
+---------------
 
 |    | CTCI                  |    | LEET
 |----|-----------------------|----|-----
@@ -48,8 +48,8 @@ Stacks and Queues
 |  6 | Animal Shelter        |    |
 
 
-Trees and Graphs
-----------------
+Trees & Graphs
+--------------
 
 |    | CTCI                  |    | LEET
 |----|-----------------------|----|-----
@@ -67,8 +67,8 @@ Trees and Graphs
 | 12 | Paths with Sum        | 🟧 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 
 
-Recursion and Dynamic Programming
----------------------------------
+Recursion & Dynamic Programming
+-------------------------------
 
 |    | CTCI                      |    | LEET
 |----|---------------------------|----|-----
