@@ -70,7 +70,7 @@ Trees
 31. 🟢 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/balanced-binary-tree))_
 32. 🟢 [Same Tree](https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 33. 🟢 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/subtree-of-another-tree))_
-34. 🟠 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
+34. 🟠 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree))_
 35. 🟠 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=2yvx2ha6)
 36. 🟠 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=problem-list-v2&envId=2yvx2ha6)
 37. 🟠 [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
