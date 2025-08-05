@@ -75,7 +75,7 @@ Trees
 36. 🟠 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=problem-list-v2&envId=2yvx2ha6)
 37. 🟠 [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 38. 🟠 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/validate-binary-search-tree))_
-39. 🟠 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=2yvx2ha6)
+39. 🟠 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/problems/kth-smallest-integer-in-bst))_
 
 
 Heap / Priority Queue
