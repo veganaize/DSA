@@ -9,12 +9,12 @@ Arrays & Hashing
 
 01. 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=2yvx2ha6)
 02. 🟢 [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=2yvx2ha6)
-03. 🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=2yvx2ha6) _([official editorial](https://leetcode.com/problems/two-sum/editorial/))_
+03. 🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/two-sum/editorial/))_
 04. 🟠 [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=2yvx2ha6)
-05. 🟠 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=2yvx2ha6) _([official editorial](https://leetcode.com/problems/top-k-frequent-elements/editorial/#solution-article)) ([neetcode video](https://youtu.be/YPTqKIgVk-k))_
+05. 🟠 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/top-k-frequent-elements/editorial/#solution-article)) ([neetcode video](https://youtu.be/YPTqKIgVk-k))_
 06. 🟠 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/TjFXEUCMqI8))_
 07. 🟠 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/bNvIQI2wAjk))_
-08. 🟠 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/P6RZZMu_maU)) ([neetcode solutions](https://neetcode.io/solutions/longest-consecutive-sequence))_
+08. 🟠 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/P6RZZMu_maU)) ([neetcode explanation](https://neetcode.io/solutions/longest-consecutive-sequence))_
 
 
 Two Pointers
@@ -66,11 +66,11 @@ Trees
 
 28. 🟢 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 29. 🟢 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
-30. 🟢 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _(neetcode [problem](https://neetcode.io/problems/binary-tree-diameter) / [solution](https://neetcode.io/solutions/binary-tree-diameter))_
+30. 🟢 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode problem](https://neetcode.io/problems/binary-tree-diameter) / [explanation](https://neetcode.io/solutions/binary-tree-diameter))_
 31. 🟢 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/balanced-binary-tree))_
 32. 🟢 [Same Tree](https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
 33. 🟢 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/subtree-of-another-tree))_
-34. 🟠 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree))_
+34. 🟠 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode problem](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree) / [solution](https://neetcode.io/solutions/lowest-common-ancestor-in-binary-search-tree))_
 35. 🟠 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/binary-tree-level-order-traversal))_
 36. 🟠 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=problem-list-v2&envId=2yvx2ha6)
 37. 🟠 [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -81,7 +81,7 @@ Trees
 Heap / Priority Queue
 ---------------------
 
-40. 🟢 [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=problem-list-v2&envId=2yvx2ha6)
+40. 🟢 [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/kth-largest-element-in-a-stream/editorial/?envType=problem-list-v2&envId=2yvx2ha6))_ _([neetcode explanation](https://neetcode.io/solutions/kth-largest-element-in-a-stream))_
 41. 🟢 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/?envType=problem-list-v2&envId=2yvx2ha6)
 42. 🟠 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=problem-list-v2&envId=2yvx2ha6)
 
