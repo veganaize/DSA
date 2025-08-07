@@ -89,7 +89,7 @@ Heap / Priority Queue
 Graphs
 ------
 
-43. 🟠 [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=2yvx2ha6)
+43. 🟠 [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/number-of-islands))_
 44. 🟠 [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/?envType=problem-list-v2&envId=2yvx2ha6)
 45. 🟠 [Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=2yvx2ha6)
 46. 🟠 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/?envType=problem-list-v2&envId=2yvx2ha6)
