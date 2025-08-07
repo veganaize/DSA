@@ -7,17 +7,25 @@ _https://www.crackingthecodinginterview.com/_
 Arrays & Strings
 ----------------
 
-|    | CTCI                   | LEET 
-|----|------------------------|-----
-|  1 | Is Unique              | 🟩 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-|  2 | Check Permutation      | 🟩 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-|  3 | URLify                 |
-|  4 | Palindrome Permutation | 🟩 [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒
-|  5 | One Away               | 🟧 [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) 🔒
-|  6 | String Compression     | 🟧 [String Compression](https://leetcode.com/problems/string-compression/)
-|  7 | Rotate Matrix          | 🟧 [Rotate Image](https://leetcode.com/problems/rotate-image/)
-|  8 | Zero Martrix           | 🟧 [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
-|  9 | String Rotation        | 🟩 [Rotate String](https://leetcode.com/problems/rotate-string/)
+|     | CTCI                   | LEET 
+|-----|------------------------|-----
+|  1  | Is Unique              | 🟩 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+|  2  | Check Permutation      | 🟩 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+|  3  | URLify                 |
+|  4  | Palindrome Permutation | 🟩 [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒
+|  5  | One Away               | 🟧 [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) 🔒
+|  6  | String Compression     | 🟧 [String Compression](https://leetcode.com/problems/string-compression/)
+|  7  | Rotate Matrix          | 🟧 [Rotate Image](https://leetcode.com/problems/rotate-image/)
+|  8  | Zero Martrix           | 🟧 [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
+|  9  | String Rotation        | 🟩 [Rotate String](https://leetcode.com/problems/rotate-string/)
+| M08 | English Int            | 🟥 [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+| M17 | Contiguous Sequence    | 🟧 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+| M22 | Langton's Ant          |
+| H04 | Missing Number         | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/)*
+| H07 | Baby Names             |
+| H13 | Re-Space               |
+| H22 | Word Transformer       | 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/)
+| H26 | Sparse Similarity      |
 
 
 Linked Lists
