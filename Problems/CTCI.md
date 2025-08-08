@@ -7,11 +7,11 @@ _https://www.crackingthecodinginterview.com/_
 Arrays & Strings
 ----------------
 
-|     | CTCI                   | LEET 
-|-----|------------------------|-----
+|     | CTCI                   | LEET | GEEK
+|-----|------------------------|------|-----
 |  1  | Is Unique              | 🟩 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 |  2  | Check Permutation      | 🟩 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-|  3  | URLify                 |
+|  3  | URLify                 |      | 🟩 [URLify a given string](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)
 |  4  | Palindrome Permutation | 🟩 [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒
 |  5  | One Away               | 🟧 [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) 🔒
 |  6  | String Compression     | 🟧 [String Compression](https://leetcode.com/problems/string-compression/)
@@ -20,7 +20,7 @@ Arrays & Strings
 |  9  | String Rotation        | 🟩 [Rotate String](https://leetcode.com/problems/rotate-string/)
 | M08 | English Int            | 🟥 [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 | M17 | Contiguous Sequence    | 🟧 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-| M22 | Langton's Ant          |
+| M22 | [Langton's Ant](https://en.wikipedia.org/wiki/Langton's_ant) 🌐 |
 | H04 | Missing Number         | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/)*
 | H07 | Baby Names             |
 | H13 | Re-Space               |
