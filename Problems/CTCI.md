@@ -90,14 +90,14 @@ Trees & Graphs
 Recursion & Dynamic Programming
 -------------------------------
 
-|     | CTCI                      | LEET                                                                               | GEEK
-|-----|---------------------------|------------------------------------------------------------------------------------|-----
+|     | CTCI                      | LEET | GEEK
+|-----|---------------------------|------|-----
 |  1  | Triple Step               | 🟩 [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 |  2  | Robot in a Grid           | 🟧 [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 |  3  | Magic Index               |    
 |  4  | Power Set                 | 🟧 [Subsets](https://leetcode.com/problems/subsets/)
 |  5  | Recursive Multiply        | 🟧 [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)*
-|  6  | Towers of Hanoi           |                                                                                     | 🟧 [Tower of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)*
+|  6  | Towers of Hanoi           |      | 🟧 [Tower of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)*
 |  7  | Permutations without Dups | 🟧 [Permutations](https://leetcode.com/problems/permutations/)
 |  8  | Permutations with Dups    | 🟧 [Permutations II](https://leetcode.com/problems/permutations-ii/)
 |  9  | Parens                    | 🟧 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -121,8 +121,8 @@ Recursion & Dynamic Programming
 Sorting & Searching
 -------------------
 
-|     | CTCI                      | LEET
-|-----|---------------------------|-----
+|     | CTCI                      | LEET | GEEK
+|-----|---------------------------|------|-----
 |  1  | Sorted Merge              | 🟩 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 |  2  | Group Anagrams            | 🟧 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 |  3  | Search in Rotated Array   | 🟧 [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
@@ -136,7 +136,7 @@ Sorting & Searching
 | 11  | Peaks and Valleys         | 🟧 [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) 🔒
 | M10 | Living People             |
 | M16 | Sub Sort                  | 🟧 [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
-| M21 | Sum Swap                  |
+| M21 | Sum Swap                  |      | 🟧 [Swapping pairs make sum equal](https://www.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1)
 | M24 | Pairs with Sum            | 🟧 [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 | H11 | Word Distance             | 🟧 [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) 🔒
 | H26 | Sparse Similarity         |
