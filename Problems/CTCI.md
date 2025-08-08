@@ -1,4 +1,4 @@
-📗 [CTCI -> LEET](https://leetcode.com/discuss/post/1152824/cracking-the-coding-interview-6th-editio-97nm/) -> GEEK
+📗 [CTCI -> LEET](https://leetcode.com/discuss/post/1152824/cracking-the-coding-interview-6th-editio-97nm/) / GEEK
 =================
 
 _https://www.crackingthecodinginterview.com/_
