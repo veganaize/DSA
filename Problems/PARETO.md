@@ -9,9 +9,9 @@ Arrays & Hashing
 
 01. 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=2yvx2ha6)
 02. 🟢 [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=2yvx2ha6)
-03. 🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/two-sum/editorial/))_
+03. 🟢 [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=2yvx2ha6)
 04. 🟠 [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=2yvx2ha6)
-05. 🟠 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/top-k-frequent-elements/editorial/#solution-article)) ([neetcode video](https://youtu.be/YPTqKIgVk-k))_
+05. 🟠 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/YPTqKIgVk-k))_
 06. 🟠 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/TjFXEUCMqI8))_
 07. 🟠 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/bNvIQI2wAjk))_
 08. 🟠 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/P6RZZMu_maU)) ([neetcode explanation](https://neetcode.io/solutions/longest-consecutive-sequence))_
@@ -81,7 +81,7 @@ Trees
 Heap / Priority Queue
 ---------------------
 
-40. 🟢 [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/kth-largest-element-in-a-stream/editorial/?envType=problem-list-v2&envId=2yvx2ha6))_ _([neetcode explanation](https://neetcode.io/solutions/kth-largest-element-in-a-stream))_
+40. 🟢 [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/kth-largest-element-in-a-stream))_
 41. 🟢 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/?envType=problem-list-v2&envId=2yvx2ha6)
 42. 🟠 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=problem-list-v2&envId=2yvx2ha6)
 
@@ -90,7 +90,7 @@ Graphs
 ------
 
 43. 🟠 [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/number-of-islands))_
-44. 🟠 [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/?envType=problem-list-v2&envId=2yvx2ha6) _([leetcode editorial](https://leetcode.com/problems/max-area-of-island/editorial/?envType=problem-list-v2&envId=2yvx2ha6))_
+44. 🟠 [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/?envType=problem-list-v2&envId=2yvx2ha6)
 45. 🟠 [Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=2yvx2ha6)
 46. 🟠 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/?envType=problem-list-v2&envId=2yvx2ha6)
 47. 🟠 [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/?envType=problem-list-v2&envId=2yvx2ha6)
