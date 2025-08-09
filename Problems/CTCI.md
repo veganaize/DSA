@@ -23,7 +23,7 @@ Arrays & Strings
 | M22 | [Langton's Ant](https://en.wikipedia.org/wiki/Langton's_ant) 🌐 |
 | H04 | Missing Number         | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/)*
 | H07 | Baby Names             |
-| H13 | Re-Space               | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/)*
+| H13 | Re-Space               | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/)* | 🟧 [Word Break](https://www.geeksforgeeks.org/problems/word-break1352/1)*
 | H22 | Word Transformer       | 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/)
 | H26 | Sparse Similarity      |
 
@@ -63,8 +63,8 @@ Stacks & Queues
 Trees & Graphs
 --------------
 
-|     | CTCI                  | LEET
-|-----|-----------------------|-----
+|     | CTCI                  | LEET | GEEK
+|-----|-----------------------|------|-----
 |  1  | Route Between Nodes   | 🟩 [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)*
 |  2  | Minimal Tree          | 🟩 [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 |  3  | List of Depths        | 🟧 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
@@ -79,7 +79,7 @@ Trees & Graphs
 | 12  | Paths with Sum        | 🟧 [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 | H07 | Baby Names            |
 | H12 | BiNode                | 🟧 [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) 🔒
-| H13 | Re-Space              | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/)*
+| H13 | Re-Space              | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/)* | 🟧 [Word Break](https://www.geeksforgeeks.org/problems/word-break1352/1)*
 | H14 | Smallest K            | 🟧 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)*
 | H17 | Multi Search          |
 | H20 | Coninuous Median      | 🟥 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
@@ -111,7 +111,7 @@ Recursion & Dynamic Programming
 | H06 | Count of 2s               |
 | H08 | Circus Tower              |
 | H12 | BiNode                    | 🟧 [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) 🔒
-| H13 | Re-Space                  | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/)*
+| H13 | Re-Space                  | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/)* | 🟧 [Word Break](https://www.geeksforgeeks.org/problems/word-break1352/1)*
 | H15 | Longest Word              | 🟥 [Concatenated Words](https://leetcode.com/problems/concatenated-words/)*
 | H16 | The Masseuse              | 🟧 [House Robber](https://leetcode.com/problems/house-robber/)
 | H24 | Max Submatrix             |
