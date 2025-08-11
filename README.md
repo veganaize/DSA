@@ -1,7 +1,7 @@
-* [Problems](Problems/)
-  - [CTCI](Problems/CTCI.md)
-  - [DP PATTERNS](Problems/DP_PATTERNS.md)
-  - [PARETO](Problems/PARETO.md)
+* [Problems/](Problems/)
+  - [CTCI.md](Problems/CTCI.md)
+  - [DP PATTERNS.md](Problems/DP_PATTERNS.md)
+  - [PARETO.md](Problems/PARETO.md)
 
 
 [Data Structure](https://en.wikipedia.org/wiki/Data_structure) & 
