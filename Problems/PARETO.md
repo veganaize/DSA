@@ -4,7 +4,7 @@
 _<https://www.amanmanazir.com/leetcode>_
 
 
-Arrays & Hashing
+Arrays & Hashing <sup>1</sup>
 ----------------
 
 01. 🟢 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -17,7 +17,7 @@ Arrays & Hashing
 08. 🟠 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode video](https://youtu.be/P6RZZMu_maU)) ([neetcode explanation](https://neetcode.io/solutions/longest-consecutive-sequence))_
 
 
-Two Pointers
+Two Pointers <sup>1</sup>
 ------------
 
 09. 🟢 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -26,7 +26,7 @@ Two Pointers
 12. 🟠 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=2yvx2ha6)
 
 
-Sliding Window
+Sliding Window <sup>2</sup>
 --------------
 
 13. 🟢 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -34,7 +34,7 @@ Sliding Window
 15. 🟠 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/longest-repeating-character-replacement))_
 
 
-Stack
+Stack <sup>1</sup>
 -----
 
 16. 🟢 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -42,7 +42,7 @@ Stack
 18. 🟠 [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/daily-temperatures))_
 
 
-Binary Search
+Binary Search <sup>1</sup>
 -------------
 
 19. 🟢 [Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -50,7 +50,7 @@ Binary Search
 21. 🟠 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/search-in-rotated-sorted-array))_
 
 
-Linked List
+Linked List <sup>1</sup>
 -----------
 
 22. 🟢 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -61,7 +61,7 @@ Linked List
 27. 🟠 [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/lru-cache))_
 
 
-Trees
+Trees <sup>1</sup>
 -----
 
 28. 🟢 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/?envType=problem-list-v2&envId=2yvx2ha6)
@@ -78,7 +78,7 @@ Trees
 39. 🟠 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/problems/kth-smallest-integer-in-bst))_
 
 
-Heap / Priority Queue
+Heap / Priority Queue <sup>2</sup>
 ---------------------
 
 40. 🟢 [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/kth-largest-element-in-a-stream))_
@@ -86,7 +86,7 @@ Heap / Priority Queue
 42. 🟠 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=problem-list-v2&envId=2yvx2ha6)
 
 
-Graphs
+Graphs <sup>1</sup>
 ------
 
 43. 🟠 [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=2yvx2ha6) _([neetcode explanation](https://neetcode.io/solutions/number-of-islands))_
@@ -97,6 +97,10 @@ Graphs
 48. 🟠 [Course Schedule](https://leetcode.com/problems/course-schedule/description/?envType=problem-list-v2&envId=2yvx2ha6)
 49. 🟠 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/?envType=problem-list-v2&envId=2yvx2ha6)
 
+---
 
 🟢 _= Easy_  
-🟠 _= Medium_
+🟠 _= Medium_  
+
+<sup>1</sup> _= [Tier 1](https://bctci.co/topics-image)_  
+<sup>2</sup> _= [Tier 2](https://bctci.co/topics-image)_  
