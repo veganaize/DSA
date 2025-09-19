@@ -27,3 +27,21 @@ Arrays & Hashing
 20. 🟨 [Majority Element II](https://leetcode.com/problems/majority-element-ii) [[🚀](https://neetcode.io/problems/majority-element-ii?list=neetcode250)]
 21. 🟨 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [[🚀](https://neetcode.io/problems/subarray-sum-equals-k?list=neetcode250)]
 22. 🟥 [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) [[🚀](https://neetcode.io/problems/first-missing-positive?list=neetcode250)]
+
+
+Two Pointers
+------------
+
+23. 🟩 [Reverse String](https://leetcode.com/problems/reverse-string/) [[🚀](https://neetcode.io/problems/reverse-string?list=neetcode250)]
+24. 🟩 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) [[🚀](https://neetcode.io/problems/is-palindrome?list=neetcode250)]
+25. 🟩 [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) [[🚀](https://neetcode.io/problems/valid-palindrome-ii?list=neetcode250)]
+26. 🟩 [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) [[🚀](https://neetcode.io/problems/merge-strings-alternately?list=neetcode250)]
+27. 🟩 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) [[🚀](https://neetcode.io/problems/merge-sorted-array?list=neetcode250)]
+28. 🟩 [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[🚀](https://neetcode.io/problems/remove-duplicates-from-sorted-array?list=neetcode250)]
+29. 🟨 [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [[🚀](https://neetcode.io/problems/two-integer-sum-ii?list=neetcode250)]
+30. 🟨 [3Sum](https://leetcode.com/problems/3sum/) [[🚀](https://neetcode.io/problems/three-integer-sum?list=neetcode250)]
+31. 🟨 [4Sum](https://leetcode.com/problems/4sum/) [[🚀](https://neetcode.io/problems/4sum?list=neetcode250)]
+32. 🟨 [Rotate Array](https://leetcode.com/problems/rotate-array/) [[🚀](https://neetcode.io/problems/rotate-array?list=neetcode250)]
+33. 🟨 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [[🚀](https://neetcode.io/problems/max-water-container?list=neetcode250)]
+34. 🟨 [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) [[🚀](https://neetcode.io/problems/boats-to-save-people?list=neetcode250)]
+35. 🟥 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [[🚀](https://neetcode.io/problems/trapping-rain-water?list=neetcode250)]
