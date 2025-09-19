@@ -45,3 +45,17 @@ Two Pointers
 33. 🟨 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [[🚀](https://neetcode.io/problems/max-water-container?list=neetcode250)]
 34. 🟨 [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) [[🚀](https://neetcode.io/problems/boats-to-save-people?list=neetcode250)]
 35. 🟥 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [[🚀](https://neetcode.io/problems/trapping-rain-water?list=neetcode250)]
+
+
+Sliding Window
+--------------
+
+36. 🟩 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) [[🚀](https://neetcode.io/problems/contains-duplicate-ii?list=neetcode250)]
+37. 🟩 [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[🚀](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode250)]
+38. 🟨 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[🚀](https://neetcode.io/problems/longest-substring-without-duplicates?list=neetcode250)]
+39. 🟨 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [[🚀](https://neetcode.io/problems/longest-substring-without-duplicates?list=neetcode250)]
+40. 🟨 [Permutation In String](https://leetcode.com/problems/permutation-in-string/) [[🚀](https://neetcode.io/problems/permutation-string?list=neetcode250)]
+41. 🟨 [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [[🚀](https://neetcode.io/problems/minimum-size-subarray-sum?list=neetcode250)]
+42. 🟨 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) [[🚀](https://neetcode.io/problems/find-k-closest-elements?list=neetcode250)]
+43. 🟥 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) [[🚀](https://neetcode.io/problems/minimum-window-with-characters?list=neetcode250)]
+44. 🟥 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) [[🚀](https://neetcode.io/problems/sliding-window-maximum?list=neetcode250)]
