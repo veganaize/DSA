@@ -59,3 +59,7 @@ Sliding Window
 42. 🟨 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) [[🚀](https://neetcode.io/problems/find-k-closest-elements?list=neetcode250)]
 43. 🟥 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) [[🚀](https://neetcode.io/problems/minimum-window-with-characters?list=neetcode250)]
 44. 🟥 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) [[🚀](https://neetcode.io/problems/sliding-window-maximum?list=neetcode250)]
+
+---
+
+[_neetcode github solutions repo_](https://github.com/neetcode-gh/leetcode)
