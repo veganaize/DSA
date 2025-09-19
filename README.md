@@ -1,6 +1,7 @@
 * [Problems/](Problems/)
   - [CTCI.md](Problems/CTCI.md)
   - [DP PATTERNS.md](Problems/DP_PATTERNS.md)
+  - [NEETCODE.md](Problems/NEETCODE.md)
   - [PARETO.md](Problems/PARETO.md)
 
 
