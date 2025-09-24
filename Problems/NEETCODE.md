@@ -60,6 +60,27 @@ Sliding Window
 43. 🟥 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) [[🚀](https://neetcode.io/problems/minimum-window-with-characters?list=neetcode250)]
 44. 🟥 [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) [[🚀](https://neetcode.io/problems/sliding-window-maximum?list=neetcode250)]
 
+
+Stack
+-----
+
+45. 🟩 [Baseball Game](https://leetcode.com/problems/baseball-game/) [[🚀](https://neetcode.io/problems/baseball-game?list=neetcode250)]
+46. 🟩 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [[🚀](https://neetcode.io/problems/validate-parentheses?list=neetcode250)]
+47. 🟩 [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) [[🚀](https://neetcode.io/problems/implement-stack-using-queues?list=neetcode250)]
+48. 🟩 [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) [[🚀](https://neetcode.io/problems/implement-queue-using-stacks?list=neetcode250)]
+49. 🟨 [Min Stack](https://leetcode.com/problems/min-stack/) [[🚀](https://neetcode.io/problems/minimum-stack?list=neetcode250)]
+50. 🟨 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [[🚀](https://neetcode.io/problems/evaluate-reverse-polish-notation?list=neetcode250)]
+51. 🟨 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [[🚀](https://neetcode.io/problems/generate-parentheses?list=neetcode250)]
+52. 🟨 [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [[🚀](https://neetcode.io/problems/asteroid-collision?list=neetcode250)]
+53. 🟨 [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) [[🚀](https://neetcode.io/problems/daily-temperatures?list=neetcode250)]
+54. 🟨 [Online Stock Span](https://leetcode.com/problems/online-stock-span/) [[🚀](https://neetcode.io/problems/online-stock-span?list=neetcode250)]
+55. 🟨 [Car Fleet](https://leetcode.com/problems/car-fleet/) [[🚀](https://neetcode.io/problems/car-fleet?list=neetcode250)]
+56. 🟨 [Simplify Path](https://leetcode.com/problems/simplify-path/) [[🚀](https://neetcode.io/problems/simplify-path?list=neetcode250)]
+57. 🟨 [Decode String](https://leetcode.com/problems/decode-string/) [[🚀](https://neetcode.io/problems/decode-string?list=neetcode250)]
+58. 🟥 [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) [[🚀](https://neetcode.io/problems/maximum-frequency-stack?list=neetcode250)]
+59. 🟥 [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) [[🚀](https://neetcode.io/problems/largest-rectangle-in-histogram?list=neetcode250)]
+
+
 ---
 
 [_neetcode github solutions repo_](https://github.com/neetcode-gh/leetcode)
