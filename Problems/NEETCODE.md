@@ -170,6 +170,35 @@ Trees
      [[🚀](https://neetcode.io/problems/serialize-and-deserialize-binary-tree?list=neetcode250)] <sup>150</sup>
 
 
+Heap / Priority Queue
+---------------------
+
+111. 🟩 [Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+     [[🚀](https://neetcode.io/problems/kth-largest-integer-in-a-stream?list=neetcode250)] <sup>150</sup>
+112. 🟩 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+     [[🚀](https://neetcode.io/problems/last-stone-weight?list=neetcode250)] <sup>150</sup>
+113. 🟨 [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+     [[🚀](https://neetcode.io/problems/k-closest-points-to-origin?list=neetcode250)] <sup>150</sup>
+114. 🟨 [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+     [[🚀](https://neetcode.io/problems/kth-largest-element-in-an-array?list=neetcode250)] <sup>150</sup>
+115. 🟨 [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+     [[🚀](https://neetcode.io/problems/task-scheduling?list=neetcode250)] <sup>150</sup>
+116. 🟨 [Design Twitter](https://leetcode.com/problems/design-twitter/)
+     [[🚀](https://neetcode.io/problems/design-twitter-feed?list=neetcode250)] <sup>150</sup>
+117. 🟨 [Single Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)
+     [[🚀](https://neetcode.io/problems/single-threaded-cpu?list=neetcode250)]
+118. 🟨 [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+     [[🚀](https://neetcode.io/problems/reorganize-string?list=neetcode250)]
+119. 🟨 [Longest Happy String](https://leetcode.com/problems/longest-happy-string/)
+     [[🚀](https://neetcode.io/problems/longest-happy-string?list=neetcode250)]
+120. 🟨 [Car Pooling](https://leetcode.com/problems/car-pooling/)
+     [[🚀](https://neetcode.io/problems/car-pooling?list=neetcode250)]
+121. 🟥 [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+     [[🚀](https://neetcode.io/problems/find-median-in-a-data-stream?list=neetcode250)] <sup>150</sup>
+122. 🟥 [IPO](https://leetcode.com/problems/ipo/)
+     [[🚀](https://neetcode.io/problems/ipo?list=neetcode250)]
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
