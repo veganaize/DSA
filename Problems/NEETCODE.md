@@ -249,6 +249,53 @@ Tries
      [[🚀](https://neetcode.io/problems/search-for-word-ii?list=neetcode150)] <sup>150</sup>
 
 
+Graphs
+------
+
+143. 🟩 [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+     [[🚀](https://neetcode.io/problems/island-perimeter?list=neetcode250)]
+144. 🟩 [Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+     [[🚀](https://neetcode.io/problems/verifying-an-alien-dictionary?list=neetcode250)]
+145. 🟩 [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
+     [[🚀](https://neetcode.io/problems/find-the-town-judge?list=neetcode250)]
+146. 🟨 [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+     [[🚀](https://neetcode.io/problems/count-number-of-islands?list=neetcode250)] <sup>150</sup>
+147. 🟨 [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+     [[🚀](https://neetcode.io/problems/max-area-of-island?list=neetcode250)] <sup>150</sup>
+148. 🟨 [Clone Graph](https://leetcode.com/problems/clone-graph/)
+     [[🚀](https://neetcode.io/problems/clone-graph?list=neetcode250)] <sup>150</sup>
+149. 🟨 [Walls And Gates](https://leetcode.com/problems/walls-and-gates/)
+     [[🚀](https://neetcode.io/problems/islands-and-treasure?list=neetcode250)] <sup>150</sup>
+150. 🟨 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+     [[🚀](https://neetcode.io/problems/rotting-fruit?list=neetcode250)] <sup>150</sup>
+151. 🟨 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+     [[🚀](https://neetcode.io/problems/pacific-atlantic-water-flow?list=neetcode250)] <sup>150</sup>
+152. 🟨 [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+     [[🚀](https://neetcode.io/problems/surrounded-regions?list=neetcode250)] <sup>150</sup>
+153. 🟨 [Open The Lock](https://leetcode.com/problems/open-the-lock/)
+     [[🚀](https://neetcode.io/problems/open-the-lock?list=neetcode250)]
+154. 🟨 [Course Schedule](https://leetcode.com/problems/course-schedule/)
+     [[🚀](https://neetcode.io/problems/course-schedule?list=neetcode250)] <sup>150</sup>
+155. 🟨 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+     [[🚀](https://neetcode.io/problems/course-schedule-ii?list=neetcode250)] <sup>150</sup>
+156. 🟨 [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+     [[🚀](https://neetcode.io/problems/valid-tree?list=neetcode250)] <sup>150</sup>
+157. 🟨 [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
+     [[🚀](https://neetcode.io/problems/course-schedule-iv?list=neetcode250)]
+158. 🟨 [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+     [[🚀](https://neetcode.io/problems/count-connected-components?list=neetcode250)] <sup>150</sup>
+159. 🟨 [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+     [[🚀](https://neetcode.io/problems/redundant-connection?list=neetcode250)] <sup>150</sup>
+160. 🟨 [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
+     [[🚀](https://neetcode.io/problems/accounts-merge?list=neetcode250)]
+161. 🟨 [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+     [[🚀](https://neetcode.io/problems/evaluate-division?list=neetcode250)]
+162. 🟨 [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)
+     [[🚀](https://neetcode.io/problems/minimum-height-trees?list=neetcode250)]
+163. 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/)
+     [[🚀](https://neetcode.io/problems/word-ladder?list=neetcode250)] <sup>150</sup>
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
