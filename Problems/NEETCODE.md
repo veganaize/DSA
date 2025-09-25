@@ -360,6 +360,43 @@ Advanced Graphs
      [[🚀](https://neetcode.io/problems/stone-game-iii?list=neetcode250)]
 
 
+2-D Dynamic Programming
+-----------------------
+
+191. 🟨 [Unique Paths](https://leetcode.com/problems/unique-paths/)
+     [[🚀](https://neetcode.io/problems/count-paths?list=neetcode250)] <sup>150</sup>
+192. 🟨 [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+     [[🚀](https://neetcode.io/problems/unique-paths-ii?list=neetcode250)]
+193. 🟨 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+     [[🚀](https://neetcode.io/problems/minimum-path-sum?list=neetcode250)]
+194. 🟨 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+     [[🚀](https://neetcode.io/problems/longest-common-subsequence?list=neetcode250)] <sup>150</sup>
+195. 🟨 [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+     [[🚀](https://neetcode.io/problems/last-stone-weight-ii?list=neetcode250)]
+196. 🟨 [Best Time to Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+     [[🚀](https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown?list=neetcode250)] <sup>150</sup>
+197. 🟨 [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+     [[🚀](https://neetcode.io/problems/coin-change-ii?list=neetcode250)] <sup>150</sup>
+198. 🟨 [Target Sum](https://leetcode.com/problems/target-sum/)
+     [[🚀](https://neetcode.io/problems/target-sum?list=neetcode250)] <sup>150</sup>
+199. 🟨 [Interleaving String](https://leetcode.com/problems/interleaving-string/)
+     [[🚀](https://neetcode.io/problems/interleaving-string?list=neetcode250)] <sup>150</sup>
+200. 🟨 [Stone Game](https://leetcode.com/problems/stone-game/)
+     [[🚀](https://neetcode.io/problems/stone-game?list=neetcode250)]
+201. 🟨 [Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+     [[🚀](https://neetcode.io/problems/stone-game-ii?list=neetcode250)]
+202. 🟥 [Longest Increasing Path In a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+     [[🚀](https://neetcode.io/problems/longest-increasing-path-in-matrix?list=neetcode250)] <sup>150</sup>
+203. 🟥 [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+     [[🚀](https://neetcode.io/problems/count-subsequences?list=neetcode250)] <sup>150</sup>
+204. 🟨 [Edit Distance](https://leetcode.com/problems/edit-distance/)
+     [[🚀](https://neetcode.io/problems/edit-distance?list=neetcode250)] <sup>150</sup>
+205. 🟥 [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+     [[🚀](https://neetcode.io/problems/burst-balloons?list=neetcode250)] <sup>150</sup>
+206. 🟥 [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+     [[🚀](https://neetcode.io/problems/regular-expression-matching?list=neetcode250)] <sup>150</sup>
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
