@@ -321,6 +321,45 @@ Advanced Graphs
      [[🚀](https://neetcode.io/problems/greatest-common-divisor-traversal?list=neetcode250)]
 
 
+1-D Dynamic Programming
+-----------------------
+
+174. 🟩 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+     [[🚀](https://neetcode.io/problems/climbing-stairs?list=neetcode250)] <sup>150</sup>
+175. 🟩 [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+     [[🚀](https://neetcode.io/problems/min-cost-climbing-stairs?list=neetcode250)] <sup>150</sup>
+176. 🟩 [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+     [[🚀](https://neetcode.io/problems/n-th-tribonacci-number?list=neetcode250)]
+177. 🟨 [House Robber](https://leetcode.com/problems/house-robber/)
+     [[🚀](https://neetcode.io/problems/house-robber?list=neetcode250)] <sup>150</sup>
+178. 🟨 [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+     [[🚀](https://neetcode.io/problems/house-robber-ii?list=neetcode250)] <sup>150</sup>
+179. 🟨 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+     [[🚀](https://neetcode.io/problems/longest-palindromic-substring?list=neetcode250)] <sup>150</sup>
+180. 🟨 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+     [[🚀](https://neetcode.io/problems/palindromic-substrings?list=neetcode250)] <sup>150</sup>
+181. 🟨 [Decode Ways](https://leetcode.com/problems/decode-ways/)
+     [[🚀](https://neetcode.io/problems/decode-ways?list=neetcode250)] <sup>150</sup>
+182. 🟨 [Coin Change](https://leetcode.com/problems/coin-change/)
+     [[🚀](https://neetcode.io/problems/coin-change?list=neetcode250)] <sup>150</sup>
+183. 🟨 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+     [[🚀](https://neetcode.io/problems/maximum-product-subarray?list=neetcode250)] <sup>150</sup>
+184. 🟨 [Word Break](https://leetcode.com/problems/word-break/)
+     [[🚀](https://neetcode.io/problems/word-break?list=neetcode250)] <sup>150</sup>
+185. 🟨 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+     [[🚀](https://neetcode.io/problems/longest-increasing-subsequence?list=neetcode250)] <sup>150</sup>
+186. 🟨 [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+     [[🚀](https://neetcode.io/problems/partition-equal-subset-sum?list=neetcode250)] <sup>150</sup>
+187. 🟨 [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+     [[🚀](https://neetcode.io/problems/combination-sum-iv?list=neetcode250)]
+188. 🟨 [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+     [[🚀](https://neetcode.io/problems/perfect-squares?list=neetcode250)]
+189. 🟨 [Integer Break](https://leetcode.com/problems/integer-break/)
+     [[🚀](https://neetcode.io/problems/integer-break?list=neetcode250)]
+190. 🟥 [Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+     [[🚀](https://neetcode.io/problems/stone-game-iii?list=neetcode250)]
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
