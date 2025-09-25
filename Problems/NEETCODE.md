@@ -236,6 +236,19 @@ Backtracking
      [[🚀](https://neetcode.io/problems/word-break-ii?list=neetcode250)]
 
 
+Tries
+-----
+
+139. 🟨 [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
+     [[🚀](https://neetcode.io/problems/implement-prefix-tree?list=neetcode150)] <sup>150</sup>
+140. 🟨 [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+     [[🚀](https://neetcode.io/problems/design-word-search-data-structure?list=neetcode150)] <sup>150</sup>
+141. 🟨 [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)
+     [[🚀](https://neetcode.io/problems/extra-characters-in-a-string?list=neetcode250)]
+142. 🟥 [Word Search II](https://leetcode.com/problems/word-search-ii/)
+     [[🚀](https://neetcode.io/problems/search-for-word-ii?list=neetcode150)] <sup>150</sup>
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
