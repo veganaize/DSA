@@ -296,6 +296,31 @@ Graphs
      [[🚀](https://neetcode.io/problems/word-ladder?list=neetcode250)] <sup>150</sup>
 
 
+Advanced Graphs
+---------------
+
+164. 🟨 [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+     [[🚀](https://neetcode.io/problems/path-with-minimum-effort?list=neetcode250)]
+165. 🟨 [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+     [[🚀](https://neetcode.io/problems/network-delay-time?list=neetcode250)] <sup>150</sup>
+166. 🟥 [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+     [[🚀](https://neetcode.io/problems/reconstruct-flight-path?list=neetcode250)] <sup>150</sup>
+167. 🟨 [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+     [[🚀](https://neetcode.io/problems/min-cost-to-connect-points?list=neetcode250)] <sup>150</sup>
+168. 🟥 [Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+     [[🚀](https://neetcode.io/problems/swim-in-rising-water?list=neetcode250)] <sup>150</sup>
+169. 🟥 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+     [[🚀](https://neetcode.io/problems/foreign-dictionary?list=neetcode250)] <sup>150</sup>
+170. 🟨 [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+     [[🚀](https://neetcode.io/problems/cheapest-flight-path?list=neetcode250)] <sup>150</sup>
+171. 🟥 [Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
+     [[🚀](https://neetcode.io/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree?list=neetcode250)]
+172. 🟥 [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
+     [[🚀](https://neetcode.io/problems/build-a-matrix-with-conditions?list=neetcode250)]
+173. 🟥 [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal)
+     [[🚀](https://neetcode.io/problems/greatest-common-divisor-traversal?list=neetcode250)]
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
