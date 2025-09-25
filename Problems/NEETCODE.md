@@ -199,6 +199,43 @@ Heap / Priority Queue
      [[🚀](https://neetcode.io/problems/ipo?list=neetcode250)]
 
 
+Backtracking
+------------
+
+123. 🟩 [Sum of All Subsets XOR Total](https://leetcode.com/problems/sum-of-all-subset-xor-totals)
+     [[🚀](https://neetcode.io/problems/sum-of-all-subset-xor-totals?list=neetcode250)]
+124. 🟨 [Subsets](https://leetcode.com/problems/subsets/)
+     [[🚀](https://neetcode.io/problems/subsets?list=neetcode250)] <sup>150</sup>
+125. 🟨 [Combination Sum](https://leetcode.com/problems/combination-sum/)
+     [[🚀](https://neetcode.io/problems/combination-target-sum?list=neetcode250)] <sup>150</sup>
+126. 🟨 [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+     [[🚀](https://neetcode.io/problems/combination-target-sum-ii?list=neetcode250)] <sup>150</sup>
+127. 🟨 [Combinations](https://leetcode.com/problems/combinations/)
+     [[🚀](https://neetcode.io/problems/combinations?list=neetcode250)]
+128. 🟨 [Permutations](https://leetcode.com/problems/permutations/)
+     [[🚀](https://neetcode.io/problems/permutations?list=neetcode250)] <sup>150</sup>
+129. 🟨 [Subsets II](https://leetcode.com/problems/subsets-ii/)
+     [[🚀](https://neetcode.io/problems/subsets-ii?list=neetcode250)] <sup>150</sup>
+130. 🟨 [Permutations II](https://leetcode.com/problems/permutations-ii/)
+     [[🚀](https://neetcode.io/problems/permutations-ii?list=neetcode250)]
+131. 🟨 [Word Search](https://leetcode.com/problems/word-search/)
+     [[🚀](https://neetcode.io/problems/search-for-word?list=neetcode250)] <sup>150</sup>
+132. 🟨 [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+     [[🚀](https://neetcode.io/problems/palindrome-partitioning?list=neetcode250)] <sup>150</sup>
+133. 🟨 [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+     [[🚀](https://neetcode.io/problems/combinations-of-a-phone-number?list=neetcode250)] <sup>150</sup>
+134. 🟨 [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+     [[🚀](https://neetcode.io/problems/matchsticks-to-square?list=neetcode250)]
+135. 🟨 [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+     [[🚀](https://neetcode.io/problems/partition-to-k-equal-sum-subsets?list=neetcode250)]
+136. 🟥 [N Queens](https://leetcode.com/problems/n-queens/)
+     [[🚀](https://neetcode.io/problems/n-queens?list=neetcode250)] <sup>150</sup>
+137. 🟥 [N Queens II](https://leetcode.com/problems/n-queens-ii/)
+     [[🚀](https://neetcode.io/problems/n-queens-ii?list=neetcode250)]
+138. 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii)
+     [[🚀](https://neetcode.io/problems/word-break-ii?list=neetcode250)]
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
