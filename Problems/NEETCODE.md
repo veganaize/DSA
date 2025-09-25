@@ -100,6 +100,25 @@ Binary Search
 73. 🟥 [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) [[🚀](https://neetcode.io/problems/find-in-mountain-array?list=neetcode250)]
 
 
+Linked List
+-----------
+
+74. 🟩 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [[🚀](https://neetcode.io/problems/reverse-a-linked-list?list=neetcode250)]
+75. 🟩 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [[🚀](https://neetcode.io/problems/merge-two-sorted-linked-lists?list=neetcode250)]
+76. 🟩 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [[🚀](https://neetcode.io/problems/linked-list-cycle-detection?list=neetcode250)]
+77. 🟨 [Reorder List](https://leetcode.com/problems/reorder-list/) [[🚀](https://neetcode.io/problems/reorder-linked-list?list=neetcode250)]
+78. 🟨 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[🚀](https://neetcode.io/problems/remove-node-from-end-of-linked-list?list=neetcode250)]
+79. 🟨 [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) [[🚀](https://neetcode.io/problems/copy-linked-list-with-random-pointer?list=neetcode250)]
+80. 🟨 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [[🚀](https://neetcode.io/problems/add-two-numbers?list=neetcode250)]
+81. 🟨 [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [[🚀](https://neetcode.io/problems/find-duplicate-integer?list=neetcode250)]
+82. 🟨 [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) [[🚀](https://neetcode.io/problems/reverse-linked-list-ii?list=neetcode250)]
+83. 🟨 [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) [[🚀](https://neetcode.io/problems/design-circular-queue?list=neetcode250)]
+84. 🟨 [LRU Cache](https://leetcode.com/problems/lru-cache/) [[🚀](https://neetcode.io/problems/lru-cache?list=neetcode250)]
+85. 🟥 [LFU Cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/problems/lfu-cache?list=neetcode250)]
+86. 🟥 [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) [[🚀](https://neetcode.io/problems/merge-k-sorted-linked-lists?list=neetcode250)]
+87. 🟥 [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[🚀](https://neetcode.io/problems/reverse-nodes-in-k-group?list=neetcode250)]
+
+
 ---
 
 [_neetcode github solutions repo_](https://github.com/neetcode-gh/leetcode)
