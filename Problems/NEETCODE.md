@@ -397,6 +397,39 @@ Advanced Graphs
      [[🚀](https://neetcode.io/problems/regular-expression-matching?list=neetcode250)] <sup>150</sup>
 
 
+Greedy
+------
+
+207. 🟩 [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+     [[🚀](https://neetcode.io/problems/lemonade-change?list=neetcode250)]
+208. 🟨 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+     [[🚀](https://neetcode.io/problems/maximum-subarray?list=neetcode250)] <sup>150</sup>
+209. 🟨 [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+     [[🚀](https://neetcode.io/problems/maximum-sum-circular-subarray?list=neetcode250)]
+210. 🟨 [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
+     [[🚀](https://neetcode.io/problems/longest-turbulent-subarray?list=neetcode250)]
+211. 🟨 [Jump Game](https://leetcode.com/problems/jump-game/)
+     [[🚀](https://neetcode.io/problems/jump-game?list=neetcode250)] <sup>150</sup>
+212. 🟨 [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+     [[🚀](https://neetcode.io/problems/jump-game-ii?list=neetcode250)] <sup>150</sup>
+213. 🟨 [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
+     [[🚀](https://neetcode.io/problems/jump-game-vii?list=neetcode250)]
+214. 🟨 [Gas Station](https://leetcode.com/problems/gas-station/)
+     [[🚀](https://neetcode.io/problems/gas-station?list=neetcode250)] <sup>150</sup>
+215. 🟨 [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
+     [[🚀](https://neetcode.io/problems/hand-of-straights?list=neetcode250)] <sup>150</sup>
+216. 🟨 [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+     [[🚀](https://neetcode.io/problems/dota2-senate?list=neetcode250)]
+217. 🟨 [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
+     [[🚀](https://neetcode.io/problems/merge-triplets-to-form-target?list=neetcode250)] <sup>150</sup>
+218. 🟨 [Partition Labels](https://leetcode.com/problems/partition-labels/)
+     [[🚀](https://neetcode.io/problems/partition-labels?list=neetcode250)] <sup>150</sup>
+219. 🟨 [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+     [[🚀](https://neetcode.io/problems/valid-parenthesis-string?list=neetcode250)] <sup>150</sup>
+220. 🟥 [Candy](https://leetcode.com/problems/candy/)
+     [[🚀](https://neetcode.io/problems/candy?list=neetcode250)]
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
