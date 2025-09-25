@@ -119,6 +119,57 @@ Linked List
 87. 🟥 [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) [[🚀](https://neetcode.io/problems/reverse-nodes-in-k-group?list=neetcode250)] <sup>150</sup>
 
 
+Trees
+-----
+
+88. 🟩 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+    [[🚀](https://neetcode.io/problems/binary-tree-inorder-traversal?list=neetcode250)]
+89. 🟩 [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+    [[🚀](https://neetcode.io/problems/binary-tree-preorder-traversal?list=neetcode250)]
+90. 🟩 [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+    [[🚀](https://neetcode.io/problems/binary-tree-postorder-traversal?list=neetcode250)]
+91. 🟩 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+    [[🚀](https://neetcode.io/problems/invert-a-binary-tree?list=neetcode250)] <sup>150</sup>
+92. 🟩 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+    [[🚀](https://neetcode.io/problems/depth-of-binary-tree?list=neetcode250)] <sup>150</sup>
+93. 🟩 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+    [[🚀](https://neetcode.io/problems/binary-tree-diameter?list=neetcode250)] <sup>150</sup>
+94. 🟩 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+    [[🚀](https://neetcode.io/problems/balanced-binary-tree?list=neetcode250)] <sup>150</sup>
+95. 🟩 [Same Tree](https://leetcode.com/problems/same-tree/)
+    [[🚀](https://neetcode.io/problems/same-binary-tree?list=neetcode250)] <sup>150</sup>
+96. 🟩 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+    [[🚀](https://neetcode.io/problems/subtree-of-a-binary-tree?list=neetcode250)] <sup>150</sup>
+97. 🟨 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+    [[🚀](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode250)] <sup>150</sup>
+98. 🟨 [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+    [[🚀](https://neetcode.io/problems/insert-into-a-binary-search-tree?list=neetcode250)]
+99. 🟨 [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+    [[🚀](https://neetcode.io/problems/delete-node-in-a-bst?list=neetcode250)]
+100. 🟨 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+    [[🚀](https://neetcode.io/problems/level-order-traversal-of-binary-tree?list=neetcode250)] <sup>150</sup>
+101. 🟨 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+    [[🚀](https://neetcode.io/problems/binary-tree-right-side-view?list=neetcode250)] <sup>150</sup>
+102. 🟨 [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+    [[🚀](https://neetcode.io/problems/construct-quad-tree?list=neetcode250)]
+103. 🟨 [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+    [[🚀](https://neetcode.io/problems/count-good-nodes-in-binary-tree?list=neetcode250)] <sup>150</sup>
+104. 🟨 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+    [[🚀](https://neetcode.io/problems/valid-binary-search-tree?list=neetcode250)] <sup>150</sup>
+105. 🟨 [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+    [[🚀](https://neetcode.io/problems/kth-smallest-integer-in-bst?list=neetcode250)] <sup>150</sup>
+106. 🟨 [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+    [[🚀](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal?list=neetcode250)] <sup>150</sup>
+107. 🟨 [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+    [[🚀](https://neetcode.io/problems/house-robber-iii?list=neetcode250)]
+108. 🟨 [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)
+    [[🚀](https://neetcode.io/problems/delete-leaves-with-a-given-value?list=neetcode250)]
+109. 🟥 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+    [[🚀](https://neetcode.io/problems/binary-tree-maximum-path-sum?list=neetcode250)] <sup>150</sup>
+110. 🟥 [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+     [[🚀](https://neetcode.io/problems/serialize-and-deserialize-binary-tree?list=neetcode250)] <sup>150</sup>
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
