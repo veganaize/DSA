@@ -81,6 +81,25 @@ Stack
 59. 🟥 [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) [[🚀](https://neetcode.io/problems/largest-rectangle-in-histogram?list=neetcode250)]
 
 
+Binary Search
+-------------
+
+60. 🟩 [Binary Search](https://leetcode.com/problems/binary-search/) [[🚀](https://neetcode.io/problems/binary-search?list=neetcode250)]
+61. 🟩 [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [[🚀](https://neetcode.io/problems/search-insert-position?list=neetcode250)]
+62. 🟩 [Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [[🚀](https://neetcode.io/problems/guess-number-higher-or-lower?list=neetcode250)]
+63. 🟩 [Sqrt(x)](https://leetcode.com/problems/sqrtx/) [[🚀](https://neetcode.io/problems/sqrtx?list=neetcode250)]
+64. 🟨 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [[🚀](https://neetcode.io/problems/search-2d-matrix?list=neetcode250)]
+65. 🟨 [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) [[🚀](https://neetcode.io/problems/eating-bananas?list=neetcode250)]
+66. 🟨 [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) [[🚀](https://neetcode.io/problems/capacity-to-ship-packages-within-d-days?list=neetcode250)]
+67. 🟨 [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[🚀](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array?list=neetcode250)]
+68. 🟨 [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[🚀](https://neetcode.io/problems/find-target-in-rotated-sorted-array?list=neetcode250)]
+69. 🟨 [Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) [[🚀](https://neetcode.io/problems/search-in-rotated-sorted-array-ii?list=neetcode250)]
+70. 🟨 [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/) [[🚀](https://neetcode.io/problems/time-based-key-value-store?list=neetcode250)]
+71. 🟥 [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) [[🚀](https://neetcode.io/problems/split-array-largest-sum?list=neetcode250)]
+72. 🟥 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[🚀](https://neetcode.io/problems/median-of-two-sorted-arrays?list=neetcode250)]
+73. 🟥 [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) [[🚀](https://neetcode.io/problems/find-in-mountain-array?list=neetcode250)]
+
+
 ---
 
 [_neetcode github solutions repo_](https://github.com/neetcode-gh/leetcode)
