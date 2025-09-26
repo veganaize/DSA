@@ -69,6 +69,13 @@
 
 ### [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
+* Incrementally builds candidate solutions & backtracks/abandons canidate when it's no longer viable.
+* Ideal for [constraint satisfaction problems](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem).
+  - [Crossword](https://en.wikipedia.org/wiki/Crosswords)
+  - [Eight Queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
+  - [Graph/Map Coloring](https://en.wikipedia.org/wiki/Graph_coloring)
+  - [Sudoku](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
+
 
 ### [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
