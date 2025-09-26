@@ -9,20 +9,35 @@
 📓 Data Structure & Algorithm Notes
 ===================================
 
+---
 
-🎭 [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type)
+🎭 [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type) (Interfaces)
 ------------------------
 
-### [Array](https://en.wikipedia.org/wiki/Array_(data_type))
+### [Array](https://en.wikipedia.org/wiki/Array_(data_type)) (Abstract Interface)
+
+* Abstract Data Types
+  - [Associative Array / Map](https://en.wikipedia.org/wiki/Associative_array)
+  - [Set](https://en.wikipedia.org/wiki/Set_(abstract_data_type))
+ 
+* Concrete Data Types
+  - [Array](#arrays)
+  - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
+  - [Linked List](#linked-list)
+  - [Search Tree](https://en.wikipedia.org/wiki/Search_tree)
+
+
+### [Collection](https://en.wikipedia.org/wiki/Collection_(abstract_data_type))
+
 
 ### [List](https://en.wikipedia.org/wiki/List_(abstract_data_type))
 
 * Concrete Data Structures
-  - [Array](#strings--static-arrays)
+  - [Array](#arrays)
   - [Balanced Tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
-  - [Dynamic Array](#dynamic-arrays)
+  - [Dynamic Array](#arrays)
   - [Hashed Array Tree](https://en.wikipedia.org/wiki/Hashed_array_tree)
-  - [Linked List](#linked-lists)
+  - [Linked List](#linked-list)
   - [Random Access List](https://docs.racket-lang.org/ralist/index.html)
 
 
@@ -39,9 +54,13 @@
 * Useful for tasks divided into sub-tasks:
   - Tracking tokens while parsing
 
+---
 
 🧑‍🏭 [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 ---------------
+
+
+---
 
 📚 Books
 --------
@@ -64,36 +83,40 @@
 - [All problems, solutions & test cases](https://bctci.co/all-problems)
 </details>
 
+---
 
 📦 [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
 --------------------
 
-### [Dynamic Arrays](https://en.wikipedia.org/wiki/Dynamic_array)
+### [Arrays](https://en.wikipedia.org/wiki/Array_(data_structure))
 
-* Random access of any element (via index).
-* Occasionally resized (copies elements; typically faster than dynamic allocations required by linked list).
-* Typical "array" type for scripting languages (typically with static array(s) utilized internally).
-* Complexities:
-  - Lookup by index: `O(1)` time
-  - Lookup by value: `O(n)` time
-  - Insertion / Deletion: `Amortized O(1)` | `O(n)` time
+* An array is a contiguous sequence of the same type.
+* A memory buffer is (pre)allocated for all elements.
+
+* [__Dynamic Array__](https://en.wikipedia.org/wiki/Dynamic_array)
+  - Random access of any element (via index).
+  - Occasionally resized (copies elements; typically faster than dynamic allocations required by linked list).
+  - Typical "array" type for scripting languages (typically with static array(s) utilized internally).
+  - Complexities:
+    * Lookup by index: `O(1)` time
+    * Lookup by value: `O(n)` time
+    * Insertion / Deletion: `Amortized O(1)` | `O(n)` time
+
+* [__Static Array__](https://en.wikipedia.org/wiki/Array_(data_structure))
+  - Cannot be resized at runtime; must re-allocate buffer & copy.
+
+* [__String__](https://en.wikipedia.org/wiki/String_(computer_science))
+  - Typically a read-only array of characters.
 
 
-### [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+### [Linked List](https://en.wikipedia.org/wiki/Linked_list)
 
 * Each element dynamically allocated (typically slower than occasional copies required by dynamic array).
 * Complexities:
   - Lookup: `O(n)` time
   - Insertion / Deletion: `O(1)` time
 
-
-### [Strings][string] & Static [Arrays][array]
-
-* An array is a contiguous sequence of the same type.
-* A string is a (typically read-only) array of characters.
-* A memory buffer is (pre)allocated for all elements.
-* Cannot be resized at runtime; must re-allocate buffer & copy.
-
+---
 
 🎨 Design
 ---------
@@ -103,6 +126,7 @@
   - To collaborate on approach for solution.
   - Because jumping straight into coding, on large projects, is a bad idea.
 
+---
 
 <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px"
 /> Videos
@@ -112,7 +136,3 @@
   - [Binary tree traversal - breadth-first and depth-first strategies](https://youtu.be/9RHO6jU--GU) - mycodeschool
 * HEAPS
   - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
-
-
-[array]: https://en.wikipedia.org/wiki/Array_(data_structure)
-[string]: https://en.wikipedia.org/wiki/String_(computer_science)
