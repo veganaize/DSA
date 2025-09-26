@@ -480,6 +480,31 @@ Math & Geometry
      [[🚀](https://neetcode.io/problems/count-squares?list=neetcode250)] <sup>150</sup>
 
 
+Bit Manipulation
+----------------
+
+241. 🟩 [Single Number](https://leetcode.com/problems/single-number/)
+     [[🚀](https://neetcode.io/problems/single-number?list=neetcode250)] <sup>150</sup>
+242. 🟩 [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+     [[🚀](https://neetcode.io/problems/number-of-one-bits?list=neetcode250)] <sup>150</sup>
+243. 🟩 [Counting Bits](https://leetcode.com/problems/counting-bits/)
+     [[🚀](https://neetcode.io/problems/counting-bits?list=neetcode250)] <sup>150</sup>
+244. 🟩 [Add Binary](https://leetcode.com/problems/add-binary/)
+     [[🚀](https://neetcode.io/problems/add-binary?list=neetcode250)]
+245. 🟩 [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+     [[🚀](https://neetcode.io/problems/reverse-bits?list=neetcode250)] <sup>150</sup>
+246. 🟩 [Missing Number](https://leetcode.com/problems/missing-number/)
+     [[🚀](https://neetcode.io/problems/missing-number?list=neetcode250)] <sup>150</sup>
+247. 🟨 [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+     [[🚀](https://neetcode.io/problems/sum-of-two-integers?list=neetcode250)] <sup>150</sup>
+248. 🟨 [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+     [[🚀](https://neetcode.io/problems/reverse-integer?list=neetcode250)] <sup>150</sup>
+249. 🟨 [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
+     [[🚀](https://neetcode.io/problems/bitwise-and-of-numbers-range?list=neetcode250)]
+250. 🟨 [Minimum Array End](https://leetcode.com/problems/minimum-array-end/)
+     [[🚀](https://neetcode.io/problems/minimum-array-end?list=neetcode250)]
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
