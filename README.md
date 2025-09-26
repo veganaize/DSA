@@ -69,7 +69,7 @@
 
 ### [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
-* Incrementally builds candidate solutions & backtracks/abandons canidate when it's no longer viable.
+* Incrementally builds candidate solutions & backtracks/abandons candidate when it's no longer viable.
 * Ideal for [constraint satisfaction problems](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem).
   - [Crossword](https://en.wikipedia.org/wiki/Crosswords)
   - [Eight Queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
