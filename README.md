@@ -67,6 +67,8 @@
 🧑‍🏭 [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 ---------------
 
+### [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
+
 
 ### [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
