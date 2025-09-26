@@ -70,6 +70,16 @@
 ---------------
 
 
+### [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
+* [__Quicksort__](https://en.wikipedia.org/wiki/Quicksort)
+  - Divide-and-conquer / recursive algorithm.
+  - Ideal pivot point is middle value -- for guaranteed `O(n lg n)` for sorted data.
+  - Time complexity
+    * Best / Average: `O(n * log n)`
+    * Worst: `O(n^2)`
+
+
 ---
 
 
