@@ -6,12 +6,34 @@
   - [PARETO.md](Problems/PARETO.md)
 
 
-[Data Structure][ds] & [Algorithm][a] Notes
-===========================================
+📓 Data Structure & Algorithm Notes
+===================================
 
 
-:books: Books
--------------
+🎭 [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type)
+------------------------
+
+### [List](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+
+### [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+
+* Features:
+  - last in, first out (LIFO)
+* Implementation:
+  - As a dynamic array
+  - As a linked list
+* Operations:
+  - `push` (aka. `append`)
+  - `pop`
+* Useful for tasks divided into sub-tasks:
+  - Tracking tokens while parsing
+
+
+🧑‍🏭 [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
+---------------
+
+📚 Books
+--------
 
 <details><summary><a href="https://web.archive.org/web/20200218054807/http://www.piexposed.com/">Programming Interviews Exposed</a></summary></details>
 <details><summary><a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a></summary></details>
@@ -32,14 +54,8 @@
 </details>
 
 
-:art: Design
-------------
-
-* Design code before writing:
-  - To have a plan & avoid getting stuck.
-  - To collaborate on approach for solution.
-  - Because jumping straight into coding, on large projects, is a bad idea.
-
+📦 [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
+--------------------
 
 ### [Dynamic Arrays](https://en.wikipedia.org/wiki/Dynamic_array)
 
@@ -60,26 +76,21 @@
   - Insertion / Deletion: `O(1)` time
 
 
-### [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-
-* Features:
-  - last in, first out (LIFO)
-* Implementation:
-  - As a dynamic array
-  - As a linked list
-* Operations:
-  - `push` (aka. `append`)
-  - `pop`
-* Useful for tasks divided into sub-tasks:
-  - Tracking tokens while parsing
-
-
 ### [Strings][string] & Static [Arrays][array]
 
 * An array is a contiguous sequence of the same type.
 * A string is a (typically read-only) array of characters.
 * A memory buffer is (pre)allocated for all elements.
 * Cannot be resized at runtime; must re-allocate buffer & copy.
+
+
+🎨 Design
+---------
+
+* Design code before writing:
+  - To have a plan & avoid getting stuck.
+  - To collaborate on approach for solution.
+  - Because jumping straight into coding, on large projects, is a bad idea.
 
 
 <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px"
@@ -92,7 +103,5 @@
   - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
 
 
-[a]: https://en.wikipedia.org/wiki/Algorithm
 [array]: https://en.wikipedia.org/wiki/Array_(data_structure)
-[ds]: https://en.wikipedia.org/wiki/Data_structure
 [string]: https://en.wikipedia.org/wiki/String_(computer_science)
