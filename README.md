@@ -9,39 +9,46 @@
 📓 Data Structure & Algorithm Notes
 ===================================
 
+
 ---
+
 
 🎭 [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type) (Interfaces)
 ------------------------
 
-### [Array](https://en.wikipedia.org/wiki/Array_(data_type)) (Abstract Interface)
+<details><summary><a href="https://en.wikipedia.org/wiki/Array_(data_type)"><b>Array</b></a> <i>(Abstract Interface)</i></summary>
 
-* Abstract Data Types
+* _Abstract Data Types_
   - [Associative Array / Map](https://en.wikipedia.org/wiki/Associative_array)
   - [Set](https://en.wikipedia.org/wiki/Set_(abstract_data_type))
  
-* Concrete Data Types
+* _Concrete Data Types_
   - [Array](#arrays)
   - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
   - [Linked List](#linked-list)
   - [Search Tree](https://en.wikipedia.org/wiki/Search_tree)
+</details>
 
 
-### [Collection](https://en.wikipedia.org/wiki/Collection_(abstract_data_type))
+<details><summary><a href="https://en.wikipedia.org/wiki/Collection_(abstract_data_type)"><b>Collection</b></a></summary></details>
 
 
-### [List](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+<details><summary><a href="https://en.wikipedia.org/wiki/List_(abstract_data_type)"><b>List</b></a></summary>
 
-* Concrete Data Structures
+* _Concrete Data Structures_
   - [Array](#arrays)
   - [Balanced Tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
   - [Dynamic Array](#arrays)
   - [Hashed Array Tree](https://en.wikipedia.org/wiki/Hashed_array_tree)
   - [Linked List](#linked-list)
   - [Random Access List](https://docs.racket-lang.org/ralist/index.html)
+</details>
 
 
-### [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+<details><summary><a href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)"><b>Queue</b></a></summary></details>
+
+
+<details><summary><a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)"><b>Stack</b></a></summary>
 
 * Features:
   - last in, first out (LIFO)
@@ -53,14 +60,18 @@
   - `pop`
 * Useful for tasks divided into sub-tasks:
   - Tracking tokens while parsing
+</details>
+
 
 ---
+
 
 🧑‍🏭 [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 ---------------
 
 
 ---
+
 
 📚 Books
 --------
@@ -83,7 +94,9 @@
 - [All problems, solutions & test cases](https://bctci.co/all-problems)
 </details>
 
+
 ---
+
 
 📦 [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
 --------------------
@@ -116,7 +129,9 @@
   - Lookup: `O(n)` time
   - Insertion / Deletion: `O(1)` time
 
+
 ---
+
 
 🎨 Design
 ---------
@@ -126,7 +141,9 @@
   - To collaborate on approach for solution.
   - Because jumping straight into coding, on large projects, is a bad idea.
 
+
 ---
+
 
 <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px"
 /> Videos
