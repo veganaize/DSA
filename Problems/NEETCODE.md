@@ -430,6 +430,25 @@ Greedy
      [[🚀](https://neetcode.io/problems/candy?list=neetcode250)]
 
 
+Intervals
+---------
+
+221. 🟨 [Insert Interval](https://leetcode.com/problems/insert-interval/)
+     [[🚀](https://neetcode.io/problems/insert-new-interval?list=neetcode250)] <sup>150</sup>
+222. 🟨 [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+     [[🚀](https://neetcode.io/problems/merge-intervals?list=neetcode250)] <sup>150</sup>
+223. 🟨 [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+     [[🚀](https://neetcode.io/problems/non-overlapping-intervals?list=neetcode250)] <sup>150</sup>
+224. 🟩 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+     [[🚀](https://neetcode.io/problems/meeting-schedule?list=neetcode250)] <sup>150</sup>
+225. 🟨 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+     [[🚀](https://neetcode.io/problems/meeting-schedule-ii?list=neetcode250)] <sup>150</sup>
+226. 🟥 [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
+     [[🚀](https://neetcode.io/problems/meeting-rooms-iii?list=neetcode250)]
+227. 🟥 [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
+     [[🚀](https://neetcode.io/problems/minimum-interval-including-query?list=neetcode250)] <sup>150</sup>
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
