@@ -78,6 +78,9 @@
   - Time complexity
     * Best / Average: `O(n * log n)`
     * Worst: `O(n^2)`
+  - Space complexity
+    * Naive: `O(n)`
+    * In-place: `O(log n)`
 
 
 ---
