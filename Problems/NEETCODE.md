@@ -449,6 +449,37 @@ Intervals
      [[🚀](https://neetcode.io/problems/minimum-interval-including-query?list=neetcode250)] <sup>150</sup>
 
 
+Math & Geometry
+---------------
+
+228. 🟩 [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+     [[🚀](https://neetcode.io/problems/excel-sheet-column-title?list=neetcode250)]
+229. 🟩 [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+     [[🚀](https://neetcode.io/problems/greatest-common-divisor-of-strings?list=neetcode250)]
+230. 🟨 [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)
+     [[🚀](https://neetcode.io/problems/insert-greatest-common-divisors-in-linked-list?list=neetcode250)]
+231. 🟩 [Transpose Matrix](https://leetcode.com/problems/transpose-matrix)
+     [[🚀](https://neetcode.io/problems/transpose-matrix?list=neetcode250)]
+232. 🟨 [Rotate Image](https://leetcode.com/problems/rotate-image/)
+     [[🚀](https://neetcode.io/problems/rotate-matrix?list=neetcode250)] <sup>150</sup>
+233. 🟨 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+     [[🚀](https://neetcode.io/problems/spiral-matrix?list=neetcode250)] <sup>150</sup>
+234. 🟨 [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+     [[🚀](https://neetcode.io/problems/set-zeroes-in-matrix?list=neetcode250)] <sup>150</sup>
+235. 🟩 [Happy Number](https://leetcode.com/problems/happy-number/)
+     [[🚀](https://neetcode.io/problems/non-cyclical-number?list=neetcode250)] <sup>150</sup>
+236. 🟩 [Plus One](https://leetcode.com/problems/plus-one/)
+     [[🚀](https://neetcode.io/problems/plus-one?list=neetcode250)] <sup>150</sup>
+237. 🟩 [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+     [[🚀](https://neetcode.io/problems/roman-to-integer?list=neetcode250)]
+238. 🟨 [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+     [[🚀](https://neetcode.io/problems/pow-x-n?list=neetcode250)] <sup>150</sup>
+239. 🟨 [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+     [[🚀](https://neetcode.io/problems/multiply-strings?list=neetcode250)] <sup>150</sup>
+240. 🟨 [Detect Squares](https://leetcode.com/problems/detect-squares/)
+     [[🚀](https://neetcode.io/problems/count-squares?list=neetcode250)] <sup>150</sup>
+
+
 ---
 
 <sup>150</sup> _= Also in [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)_
