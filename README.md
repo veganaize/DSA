@@ -13,7 +13,9 @@
 🎭 [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type)
 ------------------------
 
-### [Lists](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+### [Array](https://en.wikipedia.org/wiki/Array_(data_type)
+
+### [List](https://en.wikipedia.org/wiki/List_(abstract_data_type))
 
 * Concrete Data Structures
   - [Array](#strings--static-arrays)
@@ -24,7 +26,7 @@
   - [Random Access List](https://docs.racket-lang.org/ralist/index.html)
 
 
-### [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+### [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 
 * Features:
   - last in, first out (LIFO)
