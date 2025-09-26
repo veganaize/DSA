@@ -13,7 +13,7 @@
 🎭 [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type)
 ------------------------
 
-### [Array](https://en.wikipedia.org/wiki/Array_(data_type)
+### [Array](https://en.wikipedia.org/wiki/Array_(data_type))
 
 ### [List](https://en.wikipedia.org/wiki/List_(abstract_data_type))
 
