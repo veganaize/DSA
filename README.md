@@ -118,14 +118,13 @@
 
 * An array is a contiguous sequence of the same type.
 * A memory buffer is (pre)allocated for all elements.
+* Lookup by index: `O(1)` time
+* Lookup by value: `O(n)` time
 * [__Dynamic Array__](https://en.wikipedia.org/wiki/Dynamic_array)
   - Random access of any element (via index).
   - Occasionally resized (copies elements; typically faster than dynamic allocations required by linked list).
   - Typical "array" type for scripting languages (typically with static array(s) utilized internally).
-  - Complexities:
-    * Lookup by index: `O(1)` time
-    * Lookup by value: `O(n)` time
-    * Insertion / Deletion: `Amortized O(1)` | `O(n)` time
+  - Insertion / Deletion: `Amortized O(1)` | `O(n)` time
 * [__Static Array__](https://en.wikipedia.org/wiki/Array_(data_structure))
   - Cannot be resized at runtime; must re-allocate buffer & copy.
 * [__String__](https://en.wikipedia.org/wiki/String_(computer_science))
