@@ -15,6 +15,15 @@
 
 ### [Lists](https://en.wikipedia.org/wiki/List_(abstract_data_type))
 
+* Concrete Data Structures
+  - [Array](#strings--static-arrays)
+  - [Balanced Tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
+  - [Dynamic Array](#dynamic-arrays)
+  - [Hashed Array Tree](https://en.wikipedia.org/wiki/Hashed_array_tree)
+  - [Linked List](#linked-lists)
+  - [Random Access List](https://docs.racket-lang.org/ralist/index.html)
+
+
 ### [Stacks](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 
 * Features:
