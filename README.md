@@ -129,6 +129,9 @@
   - Cannot be resized at runtime; must re-allocate buffer & copy.
 * [__String__](https://en.wikipedia.org/wiki/String_(computer_science))
   - Typically a read-only array of characters.
+* [__Variable-Length Array__](https://en.wikipedia.org/wiki/Variable-length_array)
+  - Length determined at runtime.
+  - Not growable; generally preferable to use a dynamic array instead because it's growable.
 
 
 ### [Linked List](https://en.wikipedia.org/wiki/Linked_list)
