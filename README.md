@@ -21,7 +21,6 @@
 * _Abstract Data Types_
   - [Associative Array / Map](https://en.wikipedia.org/wiki/Associative_array)
   - [Set](https://en.wikipedia.org/wiki/Set_(abstract_data_type))
- 
 * _Concrete Data Types_
   - [Array](#arrays)
   - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
@@ -50,16 +49,15 @@
 
 <details><summary><a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)"><b>Stack</b></a></summary>
 
-* Features:
-  - last in, first out (LIFO)
-* Implementation:
-  - As a dynamic array
-  - As a linked list
-* Operations:
+* Last in, first out (LIFO)
+* Operations
   - `push` (aka. `append`)
   - `pop`
-* Useful for tasks divided into sub-tasks:
+* Useful for tasks divided into sub-tasks
   - Tracking tokens while parsing
+* Concrete Implementation
+  - [Dynamic Array](#arrays)
+  - [Linked List](#linked-list)
 </details>
 
 
