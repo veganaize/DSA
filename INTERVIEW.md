@@ -39,6 +39,5 @@ _Think out loud the entire time -- even when stuck!_
      - Don't say it's "done" until absolutely sure it's error free & runs properly
      - Dry run at least one example -- using comments to track state
      - Test actual implementation, line by line
-     - Consider edge cases
-     - Consider error cases
+     - Consider expected, edge & error cases
      - Fix bugs on the fly
