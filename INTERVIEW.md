@@ -12,7 +12,7 @@ _Think out loud the entire time -- even when stuck!_
      - Error cases ?
    * Discover all constraints & make note of them
      - Input(s) & Output(s):
-       - Minimums & Maximums (length, element size, negative values, empty)
+       - Minimums & Maximums (structure size, element size, negative values, empty)
        - (Pre)sorted ?
        - Duplicates ?
        - Types (null, unicode, floating-point)
