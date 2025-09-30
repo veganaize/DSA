@@ -21,7 +21,7 @@ _Think out loud the entire time -- even when stuck!_
    * Avoid any form of pseudocode
    * Propose high-level solution(s):
      - Determine brute force / naive time & space complexity
-     - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time?)
+     - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time, or vice versa?)
      - State time & space complexities
      - Get buy-in from interviewer
 4. __*IMPLEMENTATION*__
