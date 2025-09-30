@@ -79,7 +79,7 @@
 
 ### [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
-- [__Comparison__](https://en.wikipedia.org/wiki/Comparison_sort)
+- [__Comparison-based__](https://en.wikipedia.org/wiki/Comparison_sort)
   * Determines if "key" is less, equal, or greater than another.
   * Typical sorting algorithm in standard libraries.
   * Most optimal worst-case time complexity: `O(n log n)`
