@@ -83,6 +83,14 @@
   * Determines if "key" is less, equal, or greater than another.
   * Typical sorting algorithm in standard libraries.
   * Most optimal worst-case time complexity: `O(n log n)`
+  * [_Heapsort_](https://en.wikipedia.org/wiki/Heapsort)
+    - In-place; unstable
+    - Slower than quicksort in practice.
+    - Time complexity
+      * Best: `O(n)` equal keys; `O(n log n)` distinct keys
+      * Average / Worst: `O(n log n)`
+    - Space complexity
+      * Worst: `O(1)`
   * [_Quicksort_](https://en.wikipedia.org/wiki/Quicksort)
     - Divide-and-conquer / recursive algorithm; typically unstable.
     - Ideal pivot point is middle value -- for guaranteed `O(n lg n)` for sorted data.
