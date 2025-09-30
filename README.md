@@ -89,7 +89,7 @@
     - Time complexity
       * Best: `O(n)` equal keys; `O(n log n)` distinct keys
       * Average / Worst: `O(n log n)`
-    - Space complexity
+    - Auxiliary space complexity
       * Worst: `O(1)`
   * [_Quicksort_](https://en.wikipedia.org/wiki/Quicksort)
     - Divide-and-conquer / recursive algorithm; typically unstable.
@@ -97,7 +97,7 @@
     - Time complexity
       * Best / Average: `O(n * log n)`
       * Worst: `O(n^2)`
-    - Space complexity
+    - Auxiliary space complexity
       * Naive: `O(n)`
       * In-place: `O(log n)`
 
