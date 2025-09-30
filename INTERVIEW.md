@@ -24,8 +24,8 @@ _Think out loud the entire time -- even when stuck!_
      - State time & space complexities
      - Get buy-in from interviewer
 3. __*IMPLEMENTATION*__
+   * Ask permission before writing _any_ code
    * Implement the agreed upon solution:
-     - Ask permission before writing _any_ code
      - Include / import all external dependencies
      - Write clean code:
        - Comment inline code (blocks) for later reviewers
