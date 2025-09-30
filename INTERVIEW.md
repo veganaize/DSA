@@ -18,12 +18,13 @@ _Think out loud the entire time -- even when stuck!_
        - Types (null, unicode, floating-point)
        - Format (array, map, linked list, tree)
 2. __*APPROACH*__
+   * Avoid any form of pseudocode
    * Propose high-level solution(s):
      - Determine brute force / naive time & space complexity
      - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time?)
      - State time & space complexities
      - Get buy-in from interviewer
-3. __*IMPLEMENTATION*__
+4. __*IMPLEMENTATION*__
    * Ask permission before writing _any_ code
    * Implement the agreed upon solution:
      - Include / import all external dependencies
