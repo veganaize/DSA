@@ -20,25 +20,28 @@ _Think out loud the entire time -- even when stuck!_
 2. __*APPROACH*__
    * Avoid any form of pseudocode
    * Propose high-level solution(s):
-     - Determine brute force / naive time & space complexity
+     - Determine naive / brute force time & space complexity
      - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time, or vice versa?)
      - State time & space complexities
    * Get buy-in from interviewer
 4. __*IMPLEMENTATION*__
    * Ask permission before writing _any_ code
    * Implement the agreed upon solution:
-     - Include / import all external dependencies
+     - Import / include all external dependencies
      - Write clean code:
        - Comment inline code (blocks) for later reviewers
        - Good naming (not too short, not too long)
        - Consistent whitespace / indentation
-       - Use appropriate helper functions:
-         - Break into sub-problems
-         - Keep code DRY
-   * Return to drawing board (high-level solution) when stuck
+       - Create appropriate helper functions:
+         - To break down into smaller sub-problems
+         - To keep code DRY
+   * Stuck?
+     - Do a quick dry run
+     - Revisit high-level (drawing board) solution
    * Test code:
-     - Don't say it's "done" until absolutely sure it's error free & runs properly
-     - Dry run at least one example -- using comments to track state
-     - Test actual implementation, line by line
+     - Don't say "done" until absolutely sure code is error free & runs properly
+     - Dry run _at least_ one example:
+       - Test actual implementation, line by line
+       - Use comments to track state
      - Consider expected, edge & error cases
      - Fix bugs on the fly
