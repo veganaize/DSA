@@ -6,11 +6,11 @@ _Think out loud the entire time -- even when stuck!_
 
 1. __*CLARIFICATION*__
    * Read / repeat the question out loud
-   * Offer up concise examples (as little as possible; as much as necessary):
+   * Rapidly offer up concise examples _(as little as possible; as much as necessary)_:
      - Expected cases
      - Edge cases
      - Error cases ?
-   * Discover all constraints & make note of them:
+   * Discover all constraints & make concise note of them:
      - Input(s) & Output(s):
        - Minimums & Maximums (structure size, element size, negative values, empty)
        - (Pre)sorted ?
