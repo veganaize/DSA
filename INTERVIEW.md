@@ -16,7 +16,7 @@ _Think out loud the entire time -- even when stuck!_
        - (Pre)sorted ?
        - Duplicates ?
        - Types (null, unicode, floating-point)
-       - Format (array, map, linked list, tree)
+       - Format (mutable array, immutable string, map, linked list, tree)
 2. __*APPROACH*__
    * Avoid any form of pseudocode
    * Propose high-level solution(s):
