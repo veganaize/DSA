@@ -35,13 +35,15 @@ _Think out loud the entire time -- even when stuck!_
        - Create appropriate helper functions:
          - To break down into smaller sub-problems
          - To keep code DRY
+   * Mention line numbers when jumping around
    * Stuck?
      - Do a quick dry run
      - Revisit high-level (drawing board) solution
    * Test code:
+     - Fix bugs on the fly
      - Don't say "done" until absolutely sure code is error free & runs properly
      - Dry run _at least_ one example:
        - Test actual implementation, line by line
        - Use comments to track state
-     - Consider expected, edge & error cases
-     - Fix bugs on the fly
+     - Consider expected, edge & error cases:
+       - Mention what else you'd test for, even if you don't do it now
