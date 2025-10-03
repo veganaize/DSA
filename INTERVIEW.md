@@ -23,6 +23,8 @@ _Think out loud the entire time -- even when stuck!_
      - Determine naive / brute force time & space complexity
      - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time, or vice versa?)
      - State time & space complexities
+   * Diagram an optimal approach
+     - Document essential high-level steps with (indented) bullet-points
    * Get buy-in from interviewer
 4. __*IMPLEMENTATION*__
    * Ask permission before writing _any_ code
