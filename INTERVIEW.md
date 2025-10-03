@@ -37,8 +37,8 @@ _Think out loud the entire time -- even when stuck!_
          - To keep code DRY
    * Mention line numbers when jumping around
    * Stuck?
-     - Do a quick dry run
      - Revisit high-level (drawing board) solution
+     - Do a quick dry run (with a very small example)
    * Test code:
      - Fix bugs on the fly
      - Don't say "done" until absolutely sure code is error free & runs properly
