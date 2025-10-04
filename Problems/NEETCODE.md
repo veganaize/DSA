@@ -18,7 +18,7 @@ Arrays & Hashing
 11. 🟨 [Sort an Array](https://leetcode.com/problems/sort-an-array/) [[🚀](https://neetcode.io/problems/sort-an-array?list=neetcode250)]
 12. 🟨 [Sort Colors](https://leetcode.com/problems/sort-colors/) [[🚀](https://neetcode.io/problems/sort-colors?list=neetcode250)]
 13. 🟨 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [[🚀](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode250)] <sup>150</sup>
-14. 🟨 [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) [[🚀](https://neetcode.io/problems/string-encode-and-decode?list=neetcode250)] <sup>150</sup>
+14. 🟨 [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒 [[🚀](https://neetcode.io/problems/string-encode-and-decode?list=neetcode250)] <sup>150</sup>
 15. 🟨 [Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [[🚀](https://neetcode.io/problems/range-sum-query-2d-immutable?list=neetcode250)]
 16. 🟨 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [[🚀](https://neetcode.io/problems/products-of-array-discluding-self?list=neetcode250)] <sup>150</sup>
 17. 🟨 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) [[🚀](https://neetcode.io/problems/valid-sudoku?list=neetcode250)] <sup>150</sup>
@@ -254,7 +254,7 @@ Graphs
 
 143. 🟩 [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
      [[🚀](https://neetcode.io/problems/island-perimeter?list=neetcode250)]
-144. 🟩 [Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+144. 🟩 [Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) 🔒
      [[🚀](https://neetcode.io/problems/verifying-an-alien-dictionary?list=neetcode250)]
 145. 🟩 [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
      [[🚀](https://neetcode.io/problems/find-the-town-judge?list=neetcode250)]
@@ -264,7 +264,7 @@ Graphs
      [[🚀](https://neetcode.io/problems/max-area-of-island?list=neetcode250)] <sup>150</sup>
 148. 🟨 [Clone Graph](https://leetcode.com/problems/clone-graph/)
      [[🚀](https://neetcode.io/problems/clone-graph?list=neetcode250)] <sup>150</sup>
-149. 🟨 [Walls And Gates](https://leetcode.com/problems/walls-and-gates/)
+149. 🟨 [Walls And Gates](https://leetcode.com/problems/walls-and-gates/) 🔒
      [[🚀](https://neetcode.io/problems/islands-and-treasure?list=neetcode250)] <sup>150</sup>
 150. 🟨 [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
      [[🚀](https://neetcode.io/problems/rotting-fruit?list=neetcode250)] <sup>150</sup>
@@ -278,11 +278,11 @@ Graphs
      [[🚀](https://neetcode.io/problems/course-schedule?list=neetcode250)] <sup>150</sup>
 155. 🟨 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
      [[🚀](https://neetcode.io/problems/course-schedule-ii?list=neetcode250)] <sup>150</sup>
-156. 🟨 [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+156. 🟨 [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 🔒
      [[🚀](https://neetcode.io/problems/valid-tree?list=neetcode250)] <sup>150</sup>
 157. 🟨 [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)
      [[🚀](https://neetcode.io/problems/course-schedule-iv?list=neetcode250)]
-158. 🟨 [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+158. 🟨 [Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 🔒
      [[🚀](https://neetcode.io/problems/count-connected-components?list=neetcode250)] <sup>150</sup>
 159. 🟨 [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
      [[🚀](https://neetcode.io/problems/redundant-connection?list=neetcode250)] <sup>150</sup>
@@ -439,9 +439,9 @@ Intervals
      [[🚀](https://neetcode.io/problems/merge-intervals?list=neetcode250)] <sup>150</sup>
 223. 🟨 [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
      [[🚀](https://neetcode.io/problems/non-overlapping-intervals?list=neetcode250)] <sup>150</sup>
-224. 🟩 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+224. 🟩 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) 🔒
      [[🚀](https://neetcode.io/problems/meeting-schedule?list=neetcode250)] <sup>150</sup>
-225. 🟨 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+225. 🟨 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 🔒
      [[🚀](https://neetcode.io/problems/meeting-schedule-ii?list=neetcode250)] <sup>150</sup>
 226. 🟥 [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
      [[🚀](https://neetcode.io/problems/meeting-rooms-iii?list=neetcode250)]
