@@ -4,7 +4,7 @@ DSA Coding Interview
 _Think out loud the entire time -- even when stuck!_
 
 
-1. __*CLARIFICATION*__
+1. __*PROBLEM CLARIFICATION*__
    * Read / repeat the question out loud
    * Rapidly offer up concise examples _(as little as possible; as much as necessary)_:
      - Expected cases
@@ -17,16 +17,16 @@ _Think out loud the entire time -- even when stuck!_
        - Duplicates ?
        - Types (null, unicode, floating-point)
        - Format (mutable array, immutable string, map, linked list, tree)
-2. __*APPROACH*__
+2. __*HIGH-LEVEL APPROACH*__
    * Avoid any form of pseudocode
    * Propose high-level solution(s):
      - Determine naive / brute force time & space complexity
      - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time, or vice versa?)
      - State time & space complexities
-   * Diagram an optimal approach
-     - Document essential high-level steps with (indented) bullet-points
+   * Diagram an optimal approach:
+     - Document essential high-level / abstract steps with (indented) bullet-points
    * Get buy-in from interviewer
-4. __*IMPLEMENTATION*__
+4. __*CODING IMPLEMENTATION*__
    * Ask permission before writing _any_ code
    * Implement the agreed upon solution:
      - Import / include all external dependencies
