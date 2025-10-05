@@ -254,7 +254,7 @@ Graphs
 
 143. 🟩 [Island Perimeter](https://leetcode.com/problems/island-perimeter/?envType=problem-list-v2&envId=vvnbassj)
      [[🚀](https://neetcode.io/problems/island-perimeter?list=neetcode250)]
-144. 🟩 [Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/?envType=problem-list-v2&envId=vvnbassj) 🔒
+144. 🟩 [Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/?envType=problem-list-v2&envId=vvnbassj)
      [[🚀](https://neetcode.io/problems/verifying-an-alien-dictionary?list=neetcode250)]
 145. 🟩 [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/?envType=problem-list-v2&envId=vvnbassj)
      [[🚀](https://neetcode.io/problems/find-the-town-judge?list=neetcode250)]
@@ -309,7 +309,7 @@ Advanced Graphs
      [[🚀](https://neetcode.io/problems/min-cost-to-connect-points?list=neetcode250)] <sup>150</sup>
 168. 🟥 [Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water/?envType=problem-list-v2&envId=vvnbassj)
      [[🚀](https://neetcode.io/problems/swim-in-rising-water?list=neetcode250)] <sup>150</sup>
-169. 🟥 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/?envType=problem-list-v2&envId=vvnbassj)
+169. 🟥 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/?envType=problem-list-v2&envId=vvnbassj) 🔒
      [[🚀](https://neetcode.io/problems/foreign-dictionary?list=neetcode250)] <sup>150</sup>
 170. 🟨 [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/?envType=problem-list-v2&envId=vvnbassj)
      [[🚀](https://neetcode.io/problems/cheapest-flight-path?list=neetcode250)] <sup>150</sup>
