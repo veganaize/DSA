@@ -189,3 +189,4 @@
   - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
 * QUICKSORT
   - [Complete Quicksort Overview](https://youtu.be/0SkOjNaO1XY) - CS Dojo
+  - [Quicksort algorithm](https://youtu.be/COk73cpQbFQ) - mycodeschool
