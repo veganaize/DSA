@@ -182,5 +182,10 @@
 
 * BINARY TREES
   - [Binary tree traversal - breadth-first and depth-first strategies](https://youtu.be/9RHO6jU--GU) - mycodeschool
+* HASH TABLES
+  - [Design Hashmap](https://youtu.be/cNWsgbKwwoU) - Neetcode
+  - [Intro to Hash Tables and Dictionaries](https://youtu.be/sfWyugl4JWA) - CS Dojo
 * HEAPS
   - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
+* QUICKSORT
+  - [Complete Quicksort Overview](https://youtu.be/0SkOjNaO1XY) - CS Dojo
