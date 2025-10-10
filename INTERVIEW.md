@@ -25,6 +25,7 @@ _Think out loud the entire time -- even when stuck!_
      - State time & space complexities
    * Diagram an optimal approach:
      - Document essential high-level / abstract steps with (indented) bullet-points
+     - Step through a sufficient example
    * Get buy-in from interviewer
 4. __*CODING IMPLEMENTATION*__
    * Ask permission before writing _any_ code
