@@ -29,11 +29,12 @@ _Think out loud the entire time -- even when stuck!_
    * Get buy-in from interviewer
 4. __*CODING IMPLEMENTATION*__
    * Ask permission before writing _any_ code
+   * Get agreement on primary interface (parameter order)
    * Implement the agreed upon solution:
      - Import / include all external dependencies
      - Write clean code:
        - Comment inline code (blocks) for later reviewers
-       - Good naming (not too short, not too long)
+       - Meaningful naming (not too short, not too long)
        - Consistent whitespace / indentation
        - Create appropriate helper functions:
          - To break down into smaller sub-problems
