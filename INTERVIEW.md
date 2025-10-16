@@ -24,8 +24,10 @@ _Think out loud the entire time -- even when stuck!_
      - Work toward an optimal solution (would interviewer prefer space efficiency traded out for better time, or vice versa?)
      - State time & space complexities
    * Diagram an optimal approach:
-     - Document essential high-level / abstract steps with (indented) bullet-points
      - Step through a sufficient example
+     - Document essential high-level / abstract steps with (indented) bullet-points
+       - To act as comments above code blocks
+       - To assist in naming helper functions
    * Get buy-in from interviewer
 4. __*CODING IMPLEMENTATION*__
    * Ask permission before writing _any_ code
@@ -39,6 +41,7 @@ _Think out loud the entire time -- even when stuck!_
        - Create appropriate helper functions:
          - To break down into smaller sub-problems
          - To keep code DRY
+         - Deriving names from steps of high-level approach
    * Mention line numbers when jumping around
    * Stuck?
      - Revisit high-level (drawing board) solution
