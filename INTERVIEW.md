@@ -13,7 +13,7 @@ _Think out loud the entire time -- even when stuck!_
    * Discover all constraints & make concise note of them:
      - Input(s) & Output(s):
        - Minimums & Maximums (structure size, element size, negative values, empty)
-       - (Pre)sorted ?
+       - Pre/sorted ? (ascending or descending?)
        - Duplicates ?
        - Types (null, unicode, floating-point)
        - Format (mutable array, immutable string, map, linked list, tree)
