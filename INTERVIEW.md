@@ -45,6 +45,8 @@ _Think out loud the entire time -- even when stuck!_
    * Mention line numbers when jumping around
    * Stuck?
      - Revisit high-level (drawing board) solution
+     - Refactor for readability (possibly into helper methods)
+     - Comment above blocks or any difficult to comprehend code
      - Do a quick dry run (with a very small example)
    * Test code:
      - Fix bugs on the fly
