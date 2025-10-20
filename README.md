@@ -196,6 +196,9 @@
   - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
 * LOGARITHMS
   - [Logarithms... How?](https://youtu.be/Zw5t6BTQYRU) - NancyPi
+    - <code>log<sub>2</sub>(n) => 2<sup>x</sup> = n</code>
+  - [Log base2 using calculator](https://youtu.be/dG2x5nM50ps)
+    - <code>log<sub>2</sub>(n) = ln(n) / ln(2)</code>
 * QUICKSORT
   - [Complete Quicksort Overview](https://youtu.be/0SkOjNaO1XY) - CS Dojo
   - [Quicksort algorithm](https://youtu.be/COk73cpQbFQ) - mycodeschool
