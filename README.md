@@ -108,7 +108,11 @@
 📚 Books
 --------
 
-<details><summary><a href="https://mitpress.mit.edu/algorithms">Introduction to Algorithms</a></summary></details>
+<details><summary><a href="https://mitpress.mit.edu/algorithms">Introduction to Algorithms</a></summary>
+
+- _Third Edition_
+  - [CLRS Solutions](https://walkccc.me/CLRS/) - walkccc
+</details>
 <details><summary><a href="https://web.archive.org/web/20200218054807/http://www.piexposed.com/">Programming Interviews Exposed</a></summary></details>
 <details><summary><a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a></summary></details>
 <details><summary><a href="https://bctci.co">Beyond Cracking the Coding Interview</a></summary>
