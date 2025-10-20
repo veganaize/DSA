@@ -194,6 +194,8 @@
   - [Intro to Hash Tables and Dictionaries](https://youtu.be/sfWyugl4JWA) - CS Dojo
 * HEAPS
   - [Heaps in 3 minutes — Intro](https://youtu.be/0wPlzMU-k00) - Michael Sambol
+* LOGARITHMS
+  - [Logarithms... How?](https://youtu.be/Zw5t6BTQYRU) - NancyPi
 * QUICKSORT
   - [Complete Quicksort Overview](https://youtu.be/0SkOjNaO1XY) - CS Dojo
   - [Quicksort algorithm](https://youtu.be/COk73cpQbFQ) - mycodeschool
