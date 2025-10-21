@@ -105,36 +105,6 @@
 ---
 
 
-📚 Books
---------
-
-<details><summary><a href="https://mitpress.mit.edu/algorithms">Introduction to Algorithms</a></summary>
-
-- _Third Edition_
-  - [CLRS Solutions](https://walkccc.me/CLRS/) - walkccc
-</details>
-<details><summary><a href="https://web.archive.org/web/20200218054807/http://www.piexposed.com/">Programming Interviews Exposed</a></summary></details>
-<details><summary><a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a></summary></details>
-<details><summary><a href="https://bctci.co">Beyond Cracking the Coding Interview</a></summary>
-  
-- [Boosters](https://drive.google.com/file/d/16C9gz9waj0A9XmVlaOgbDgEQZkATuRNY/preview)
-- [Question Landscape](https://drive.google.com/file/d/1Bu4cHzbY0uZg2TcPjdvy_hhNF7_HOlZJ/preview)
-- [Catalog of DSA Topics](https://bctci.co/topics-image)
-- [Interview Checklist](https://drive.google.com/file/d/1Q9Uc-1UdvyaqbkTGSaZ3-aVEYX5ImZMl/preview)
-- [Post Mortem Exmple Log](https://drive.google.com/file/d/1LG-aUqjEbTVddkjeuCHMtROlm9BMIhDb/preview)
-- [Post-Mortem](https://docs.google.com/spreadsheets/d/1phKTGfnQtuElTQ4BQSBfa1H5QO1-Ip9j8NRVZkR_FTk)
-- [\[Python\] Interview Cheat Sheet](https://docs.google.com/document/d/1LtXh1oew6pZ9D4s5mw_33jzA2UwBfnv9jWh1bkSRTCc)
-- [Nine Free Chapters](https://drive.google.com/drive/folders/1AdUu4jh6DGwmCxfgnDQEMWWyo6_whPHJ)
-- [Set & Map Implementations](https://docs.google.com/document/d/e/2PACX-1vRWfoJWWNp49cIZxDCZPkvQ2o8WOImKWLkimF7lhnsY-CmT1kREPP0duEKmnXyf-rPG1B0QGsxmcITy/pub)
-- [Monotonic Stacks & Queues](https://docs.google.com/document/d/e/2PACX-1vT29T3Tfvdkd-IGI2HCIgtAbWwYZ76pHCSlTkuyHiCvRqU5BD6S6_MJWcZl0Rgw1C2uhMykFFkNLHDu/pub)
-- [Union-Find](https://docs.google.com/document/d/e/2PACX-1vRwYsi-g1CKIDpbfhB5Xm9Lp1-OL1ooVI5i3kR4yFMX2ME14ODGZva9dabMM8Pe-Tduj4on8V8TGviZ/pub)
-- [All problems, solutions & test cases](https://bctci.co/all-problems)
-</details>
-
-
----
-
-
 📦 [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
 --------------------
 
@@ -185,11 +155,43 @@
 ------------------
 
 * [Example Sorting Implementations](https://neetcode.io/solutions/sort-an-array) - Neetcode
+* [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Kahn Academy (Cormen/Balkcom)
 
 
-<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px"
-/> Videos
----------
+### 📚 Books
+
+<details><summary><a href="https://mitpress.mit.edu/algorithms">Introduction to Algorithms</a></summary>
+
+- _Third Edition_
+  - [CLRS Solutions](https://walkccc.me/CLRS/) - walkccc
+</details>
+<details><summary><a href="https://web.archive.org/web/20200218054807/http://www.piexposed.com/">Programming Interviews Exposed</a></summary></details>
+<details><summary><a href="https://www.crackingthecodinginterview.com/">Cracking the Coding Interview</a></summary>
+
+- [Solutions](https://github.com/careercup/CtCI-6th-Edition) - 6th edition
+- [Solutions](https://github.com/careercup/ctci) - 5th edition
+- [Behavioral](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_soft_skills_-_v6.pdf) - prep sheet
+- [Coding](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf) - flow chart
+- [PM](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_pm_skills_-_v6.pdf) - interview questions
+</details>
+<details><summary><a href="https://bctci.co">Beyond Cracking the Coding Interview</a></summary>
+  
+- [Boosters](https://drive.google.com/file/d/16C9gz9waj0A9XmVlaOgbDgEQZkATuRNY/preview)
+- [Question Landscape](https://drive.google.com/file/d/1Bu4cHzbY0uZg2TcPjdvy_hhNF7_HOlZJ/preview)
+- [Catalog of DSA Topics](https://bctci.co/topics-image)
+- [Interview Checklist](https://drive.google.com/file/d/1Q9Uc-1UdvyaqbkTGSaZ3-aVEYX5ImZMl/preview)
+- [Post Mortem Exmple Log](https://drive.google.com/file/d/1LG-aUqjEbTVddkjeuCHMtROlm9BMIhDb/preview)
+- [Post-Mortem](https://docs.google.com/spreadsheets/d/1phKTGfnQtuElTQ4BQSBfa1H5QO1-Ip9j8NRVZkR_FTk)
+- [\[Python\] Interview Cheat Sheet](https://docs.google.com/document/d/1LtXh1oew6pZ9D4s5mw_33jzA2UwBfnv9jWh1bkSRTCc)
+- [Nine Free Chapters](https://drive.google.com/drive/folders/1AdUu4jh6DGwmCxfgnDQEMWWyo6_whPHJ)
+- [Set & Map Implementations](https://docs.google.com/document/d/e/2PACX-1vRWfoJWWNp49cIZxDCZPkvQ2o8WOImKWLkimF7lhnsY-CmT1kREPP0duEKmnXyf-rPG1B0QGsxmcITy/pub)
+- [Monotonic Stacks & Queues](https://docs.google.com/document/d/e/2PACX-1vT29T3Tfvdkd-IGI2HCIgtAbWwYZ76pHCSlTkuyHiCvRqU5BD6S6_MJWcZl0Rgw1C2uhMykFFkNLHDu/pub)
+- [Union-Find](https://docs.google.com/document/d/e/2PACX-1vRwYsi-g1CKIDpbfhB5Xm9Lp1-OL1ooVI5i3kR4yFMX2ME14ODGZva9dabMM8Pe-Tduj4on8V8TGviZ/pub)
+- [All problems, solutions & test cases](https://bctci.co/all-problems)
+</details>
+
+
+### <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px" /> Videos
 
 * BINARY TREES
   - [Binary tree traversal - breadth-first and depth-first strategies](https://youtu.be/9RHO6jU--GU) - mycodeschool
