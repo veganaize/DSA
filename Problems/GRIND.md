@@ -353,6 +353,23 @@ Week 5
 | _Recommended_ | _Medium_   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (BST)
 
 
+### [🌴 Graph][Graph]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+| _Essential_   | _Easy_     | [Flood Fill](https://leetcode.com/problems/flood-fill/)
+| _Essential_   | _Medium_   | [01 Matrix](https://leetcode.com/problems/01-matrix/)
+| _Recommended_ | _Medium_   | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (BFS)
+| _Recommended_ | _Medium_   | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) (BFS) 🔒
+| _Recommended_ | _Medium_   | [Clone Graph](https://leetcode.com/problems/clone-graph/)
+| _Recommended_ | _Medium_   | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+| _Recommended_ | _Medium_   | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 🔒
+| _Recommended_ | _Medium_   | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 🔒
+| _Recommended_ | _Medium_   | [Course Schedule](https://leetcode.com/problems/course-schedule/) (Topo)
+| _Recommended_ | _Hard_     | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) (Topo) 🔒
+
+
 ## Week 4
 
 ### [🌿 Dynamic Programming][DynamicProgramming]
