@@ -209,6 +209,23 @@ Week 5
 ---
 
 
+[🎰 Array][Array]
+----------
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Two Sum](https://leetcode.com/problems/two-sum/)
+| _Essential_   | _Easy_     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+| _Essential_   | _Medium_   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+| _Essential_   | _Medium_   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+| _Recommended_ | _Easy_     | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+| _Recommended_ | _Medium_   | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+| _Recommended_ | _Medium_   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+| _Recommended_ | _Medium_   | [3Sum](https://leetcode.com/problems/3sum/)
+| _Recommended_ | _Medium_   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+| _Recommended_ | _Hard_     | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+
+
 [🌲 Dynamic Programming][DynamicProgramming]
 ------------------------
 
