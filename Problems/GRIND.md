@@ -283,6 +283,16 @@ Week 5
 | _Recommended_ | _Hard_     | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 
+### [📅 Matrix][Matrix]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+| _Essential_   | _Medium_   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+| _Recommended_ | _Medium_   | [Rotate Image](https://leetcode.com/problems/rotate-image/)
+| _Recommended_ | _Medium_   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
+
 ## Week 4
 
 ### [🌲 Dynamic Programming][DynamicProgramming]
