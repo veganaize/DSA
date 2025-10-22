@@ -7,7 +7,7 @@ Week 1
 
 |     | Question                   | Difficulty | Time    | Topic
 |-----|----------------------------|------------|---------|------
-| 1.  | Two Sum                    | Easy       | 15 mins | [Array][Array]
+| 1.  | [Two Sum](https://leetcode.com/problems/two-sum)                    | Easy       | 15 mins | [Array][Array]
 | 2.  | Valid Parentheses          | Easy       | 20 mins | [Stack][Stack]
 | 3.  | Merge Two Sorted Lists     | Easy       | 20 mins | [Linked List][LinkedList]
 | 4.  | Best Time to Buy and Sell Stock | Easy  | 20 mins | [Array][Array]
