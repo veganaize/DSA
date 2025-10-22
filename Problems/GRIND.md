@@ -268,6 +268,21 @@ Week 5
 | _Recommended_ | _Medium_   | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 🔒
 
 
+## Week 2
+
+### [🔎 Sorting and Searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/)
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Binary Search](https://leetcode.com/problems/binary-search/)
+| _Essential_   | _Medium_   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+| _Recommended_ | _Medium_   | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+| _Recommended_ | _Medium_   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+| _Recommended_ | _Medium_   | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+| _Recommended_ | _Medium_   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+| _Recommended_ | _Hard_     | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+
 ## Week 4
 
 ### [🌲 Dynamic Programming][DynamicProgramming]
