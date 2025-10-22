@@ -305,6 +305,16 @@ Week 5
 | _Recommended_ | _Medium_   | [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 
+### [🎡 Queue][Queue]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+| _Recommended_ | _Easy_   | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+| _Recommended_ | _Medium_   | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+| _Recommended_ | _Medium_   | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) 🔒
+
+
 ## Week 4
 
 ### [🌲 Dynamic Programming][DynamicProgramming]
