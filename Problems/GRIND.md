@@ -7,8 +7,8 @@ Week 1
 
 |     | Question                   | Difficulty | Time    | Topic
 |-----|----------------------------|------------|---------|------
-| 1.  | [Two Sum](https://leetcode.com/problems/two-sum)                    | Easy       | 15 mins | [Array][Array]
-| 2.  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)          | Easy       | 20 mins | [Stack][Stack]
+| 1.  | [Two Sum](https://leetcode.com/problems/two-sum)                    | Easy       | 15 mins | [Array](#-array)
+| 2.  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)          | Easy       | 20 mins | [Stack](#-stack)
 | 3.  | Merge Two Sorted Lists     | Easy       | 20 mins | [Linked List][LinkedList]
 | 4.  | Best Time to Buy and Sell Stock | Easy  | 20 mins | [Array][Array]
 | 5.  | Valid Palindrome           | Easy | 15 mins | [String][String]
