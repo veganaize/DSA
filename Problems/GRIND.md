@@ -315,6 +315,23 @@ Week 5
 | _Recommended_ | _Medium_   | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) 🔒
 
 
+### [📤 Stack][Stack]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+| _Essential_   | _Easy_     | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+| _Recommended_ | _Easy_     | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+| _Recommended_ | _Medium_   | [Min Stack](https://leetcode.com/problems/min-stack/)
+| _Recommended_ | _Medium_   | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+| _Recommended_ | _Medium_   | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+| _Recommended_ | _Hard_     | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+| _Recommended_ | _Medium_   | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+| _Recommended_ | _Medium_   | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+| _Recommended_ | _Hard_     | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+| _Recommended_ | _Hard_     | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
+
 ## Week 4
 
 ### [🌲 Dynamic Programming][DynamicProgramming]
