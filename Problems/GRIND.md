@@ -256,6 +256,21 @@ Week 5
 | _Recommended_ | _Hard_     | [All O one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
 
 
+[🔃 Recursion][Recursion]
+--------------
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+| _Essential_   | _Medium_   | [Combinations](https://leetcode.com/problems/combinations/)
+| _Essential_   | _Medium_   | [Subsets](https://leetcode.com/problems/subsets/)
+| _Recommended_ | _Medium_   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+| _Recommended_ | _Medium_   | [Subsets II](https://leetcode.com/problems/subsets-ii/)
+| _Recommended_ | _Medium_   | [Permutations](https://leetcode.com/problems/permutations/)
+| _Recommended_ | _Hard_     | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+| _Recommended_ | _Medium_   | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 🔒
+
+
 [🌲 Dynamic Programming][DynamicProgramming]
 ------------------------
 
