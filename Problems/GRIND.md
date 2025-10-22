@@ -209,8 +209,8 @@ Week 5
 ---
 
 
-Dynamic Programming
--------------------
+[🌲 Dynamic Programming][DynamicProgramming]
+------------------------
 
 | Rating        | Difficulty | Question
 |---------------|------------|---------
