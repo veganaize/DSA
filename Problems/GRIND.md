@@ -370,6 +370,16 @@ Week 5
 | _Recommended_ | _Hard_     | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) (Topo) 🔒
 
 
+### [💩 Heap][Heap]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Hard_     | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+| _Essential_   | _Medium_   | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+| _Recommended_ | _Medium_   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+| _Recommended_ | _Hard_     | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+
 ## Week 4
 
 ### [🌿 Dynamic Programming][DynamicProgramming]
