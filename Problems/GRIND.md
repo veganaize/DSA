@@ -380,6 +380,16 @@ Week 5
 | _Recommended_ | _Hard_     | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 
+### [👀 Trie][Trie]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+| _Recommended_ | _Medium_   | [Add and Search Word](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+| _Recommended_ | _Medium_   | [Word Break](https://leetcode.com/problems/word-break/)
+| _Recommended_ | _Hard_     | [Word Search II](https://leetcode.com/problems/word-search-ii/)
+
+
 ## Week 4
 
 ### [🌿 Dynamic Programming][DynamicProgramming]
