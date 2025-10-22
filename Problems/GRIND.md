@@ -206,6 +206,28 @@ Week 5
 | 25. | Smallest Range Covering Elements from K Lists | Hard | 40 mins | [Heap][Heap]
 
 
+---
+
+
+Dynamic Programming
+-------------------
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+| _Essential_   | _Medium_   | [Coin Change](https://leetcode.com/problems/coin-change/)
+| _Essential_   | _Medium_   | [House Robber](https://leetcode.com/problems/house-robber/)
+| _Essential_   | _Medium_   | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+| _Recommended_ | _Medium_   | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+| _Recommended_ | _Medium_   | [Longest Commong Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+| _Recommended_ | _Medium_   | [Word Break](https://leetcode.com/problems/word-break/)
+| _Recommended_ | _Medium_   | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+| _Recommended_ | _Medium_   | [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+| _Recommended_ | _Medium_   | [Decode Ways](https://leetcode.com/problems/decode-ways/)
+| _Recommended_ | _Medium_   | [Unique Paths](https://leetcode.com/problems/unique-paths/)
+| _Recommended_ | _Medium_   | [Jump Game](https://leetcode.com/problems/jump-game/)
+
+
 [Array]: https://www.techinterviewhandbook.org/algorithms/array/
 [Binary]: https://www.techinterviewhandbook.org/algorithms/binary/
 [BinarySearch]: https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
