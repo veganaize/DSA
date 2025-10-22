@@ -226,6 +226,22 @@ Week 5
 | _Recommended_ | _Hard_     | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 
+[🔗 String][String]
+-----------
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+| _Essential_   | _Easy_     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+| _Essential_   | _Medium_   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+| _Recommended_   | _Medium_ | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+| _Recommended_   | _Medium_ | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+| _Recommended_   | _Hard_   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+| _Recommended_   | _Medium_ | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+| _Recommended_   | _Medium_ | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+| _Recommended_   | _Medium_ | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒
+
+
 [🌲 Dynamic Programming][DynamicProgramming]
 ------------------------
 
