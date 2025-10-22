@@ -242,6 +242,20 @@ Week 5
 | _Recommended_   | _Medium_ | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒
 
 
+[📑 Hash Table][HashTable]
+---------------
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Two Sum](https://leetcode.com/problems/two-sum/)
+| _Essential_   | _Easy_     | [Ransom Note](https://leetcode.com/problems/ransom-note/)
+| _Recommended_ | _Medium_   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+| _Recommended_ | _Medium_   | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+| _Recommended_ | _Hard_     | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+| _Recommended_ | _Medium_   | [LRU Cache](https://leetcode.com/problems/lru-cache/)
+| _Recommended_ | _Hard_     | [All O one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+
+
 [🌲 Dynamic Programming][DynamicProgramming]
 ------------------------
 
