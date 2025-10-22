@@ -293,6 +293,18 @@ Week 5
 | _Recommended_ | _Medium_   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 
+### [🚃 Linked List][LinkedList]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+| _Essential_   | _Easy_     | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+| _Recommended_ | _Easy_     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+| _Recommended_ | _Hard_     | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+| _Recommended_ | _Medium_   | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+| _Recommended_ | _Medium_   | [Reorder List](https://leetcode.com/problems/reorder-list/)
+
+
 ## Week 4
 
 ### [🌲 Dynamic Programming][DynamicProgramming]
