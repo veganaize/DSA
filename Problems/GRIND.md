@@ -332,9 +332,30 @@ Week 5
 | _Recommended_ | _Hard_     | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 
+## Week 3
+
+### [🌲 Tree](https://www.techinterviewhandbook.org/algorithms/tree/)
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+| _Essential_   | _Easy_     | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+| _Essential_   | _Medium_   | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (BST)
+| _Recommended_ | _Easy_     | [Same Tree](https://leetcode.com/problems/same-tree/)
+| _Recommended_ | _Hard_     | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+| _Recommended_ | _Medium_   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+| _Recommended_ | _Medium_   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+| _Recommended_ | _Medium_   | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+| _Recommended_ | _Easy_     | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+| _Recommended_ | _Medium_   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+| _Recommended_ | _Hard_     | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+| _Recommended_ | _Medium_   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (BST)
+| _Recommended_ | _Medium_   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (BST)
+
+
 ## Week 4
 
-### [🌲 Dynamic Programming][DynamicProgramming]
+### [🌿 Dynamic Programming][DynamicProgramming]
 
 | Rating        | Difficulty | Question
 |---------------|------------|---------
