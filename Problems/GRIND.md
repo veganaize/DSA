@@ -442,6 +442,13 @@ Week 5
 | _Recommended_ | _Hard_     | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 
 
+### [📐 Geometry](https://www.techinterviewhandbook.org/algorithms/geometry/)
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Easy_     | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
+| _Recommended_ | _Medium_   | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+| _Recommended_ | _Medium_   | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 
 
 [Array]: https://www.techinterviewhandbook.org/algorithms/array/
