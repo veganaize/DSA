@@ -1,8 +1,8 @@
-[📔 Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-study-plan/): [Grind 169](https://www.techinterviewhandbook.org/grind75/)
-===========================================
+# [📔 Tech Interview Handbook](https://www.techinterviewhandbook.org/)'s
 
+## [_Coding Interview Study Plan_](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
 
-## [Week 1](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-1)
+### Week 1
 
 ### [🎰 Array][Array]
 
@@ -62,7 +62,7 @@
 | _Recommended_ | _Medium_   | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 🔒
 
 
-## [Week 2](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-2)
+### Week 2
 
 ### [🔎 Sorting and Searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/)
 
@@ -77,7 +77,7 @@
 | _Recommended_ | _Hard_     | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 
-### [📅 Matrix][Matrix]
+### [🔡 Matrix][Matrix]
 
 | Rating        | Difficulty | Question
 |---------------|------------|---------
@@ -126,7 +126,7 @@
 | _Recommended_ | _Hard_     | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 
-## [Week 3](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-3)
+### Week 3
 
 ### [🌲 Tree](https://www.techinterviewhandbook.org/algorithms/tree/)
 
@@ -184,7 +184,7 @@
 | _Recommended_ | _Hard_     | [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 
-## [Week 4](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-4)
+### Week 4
 
 ### [⏲️ Interval](https://www.techinterviewhandbook.org/algorithms/interval/)
 
@@ -247,6 +247,7 @@
 
 ---
 
+## [_Grind 169_](https://www.techinterviewhandbook.org/grind75/)
 
 ### Week 5
 
