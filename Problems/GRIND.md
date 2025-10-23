@@ -353,7 +353,7 @@ Week 5
 | _Recommended_ | _Medium_   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (BST)
 
 
-### [🌴 Graph][Graph]
+### [🔢 Graph][Graph]
 
 | Rating        | Difficulty | Question
 |---------------|------------|---------
