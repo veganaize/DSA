@@ -421,6 +421,18 @@ Week 5
 | _Recommended_ | _Medium_   | [Jump Game](https://leetcode.com/problems/jump-game/)
 
 
+### [0️⃣1️⃣ Binary][Binary]
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+| _Essential_   | _Easy_     | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+| _Recommended_ | _Easy_     | [Counting Bits](https://leetcode.com/problems/counting-bits/)
+| _Recommended_ | _Easy_     | [Missing Number](https://leetcode.com/problems/missing-number/)
+| _Recommended_ | _Easy_     | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+| _Recommended_ | _Easy_     | [Single Number](https://leetcode.com/problems/single-number/)
+
+
 [Array]: https://www.techinterviewhandbook.org/algorithms/array/
 [Binary]: https://www.techinterviewhandbook.org/algorithms/binary/
 [BinarySearch]: https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
