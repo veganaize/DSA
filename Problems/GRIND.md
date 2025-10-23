@@ -264,7 +264,7 @@
 | 9.  | Flood Fill | Easy | 20 mins | [Graph][Graph]
 | 10. | Lowest Common Ancestor of a Binary Search Tree | Easy | 20 mins | [Binary Search Tree][BinarySearchTree]
 | 11. | Balanced Binary Tree | Easy | 15 mins | [Binary Tree][BinaryTree]
-| 12. | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)    | Easy | 20 mins | [Linked List][LinkedList]
+| 12. | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)    | Easy | 20 mins | [Linked List](#-linked-list)
 | 13. | Implement Queue using Stacks | Easy | 20 mins | [Stack][Stack]
 | 14. | First Bad Version | Easy | 20 mins | [Binary Search][BinarySearch]
 | 15. | Ransom Note | Easy | 15 mins | [Hash Table][HashTable]
@@ -294,7 +294,7 @@
 | 39. | Reverse Bits | Easy | 15 mins | [Binary][Binary]
 | 40. | Subtree of Another Tree | Easy | 20 mins | [Binary Tree][BinaryTree]
 | 41. | Squares of a Sorted Array | Easy | 20 mins | [Array][Array]
-| 42. | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | 20 mins | [Dynamic Programming][DynamicProgramming]
+| 42. | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | 20 mins | [Dynamic Programming](#-dynamic-programming)
 | 43. | Insert Interval | Medium | 25 mins | [Array][Array]
 | 44. | 01 Matrix | Medium | 30 mins | [Graph][Graph]
 | 45. | K Closest Points to Origin | Medium | 30 mins | [Heap][Heap]
