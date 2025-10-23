@@ -433,6 +433,17 @@ Week 5
 | _Recommended_ | _Easy_     | [Single Number](https://leetcode.com/problems/single-number/)
 
 
+### [➕ Math](https://www.techinterviewhandbook.org/algorithms/math/)
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+| _Essential_   | _Easy_     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+| _Recommended_ | _Hard_     | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+
+
+
+
 [Array]: https://www.techinterviewhandbook.org/algorithms/array/
 [Binary]: https://www.techinterviewhandbook.org/algorithms/binary/
 [BinarySearch]: https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
