@@ -392,6 +392,17 @@ Week 5
 
 ## Week 4
 
+### [⏲️ Interval](https://www.techinterviewhandbook.org/algorithms/interval/)
+
+| Rating        | Difficulty | Question
+|---------------|------------|---------
+| _Essential_   | _Medium_   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+| _Essential_   | _Medium_   | [Insert Interval](https://leetcode.com/problems/insert-interval/)
+| _Recommended_ | _Medium_   | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+| _Recommended_ | _Easy_     | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) 🔒
+| _Recommended_ | _Medium_   | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 🔒
+
+
 ### [🌿 Dynamic Programming][DynamicProgramming]
 
 | Rating        | Difficulty | Question
