@@ -312,7 +312,7 @@
 | 4.  | Course Schedule | Medium | 30 mins | [Graph][Graph]
 | 5.  | Implement Trie (Prefix Tree) | Medium | 35 mins | [Trie][Trie]
 | 6.  | Coin Change | Medium | 25 mins | [Dynamic Programming][DynamicProgramming]
-| 7.  | Product of Array Except Self | Medium | 30 mins | [Array][Array]
+| 7.  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | 30 mins | [Array](#-array)
 | 8.  | Min Stack | Medium | 20 mins | [Stack][Stack]
 | 9.  | Validate Binary Search Tree | Medium | 20 mins | [Binary Search Tree][BinarySearchTree]
 | 10. | Number of Islands | Medium | 25 mins | [Graph][Graph]
