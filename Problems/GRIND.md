@@ -256,7 +256,7 @@
 | 1.  | [Two Sum](https://leetcode.com/problems/two-sum)                    | Easy       | 15 mins | [Array](#-array)
 | 2.  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)          | Easy       | 20 mins | [Stack](#-stack)
 | 3.  | Merge Two Sorted Lists     | Easy       | 20 mins | [Linked List][LinkedList]
-| 4.  | Best Time to Buy and Sell Stock | Easy  | 20 mins | [Array][Array]
+| 4.  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy  | 20 mins | [Array](#-array)
 | 5.  | Valid Palindrome           | Easy | 15 mins | [String][String]
 | 6.  | Invert Binary Tree | Easy | 15 mins | [Binary Tree][BinaryTree]
 | 7.  | Valid Anagram | Easy | 15 mins | [String][String]
