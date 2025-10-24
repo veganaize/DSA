@@ -354,7 +354,7 @@
 | 7.  | Next Permutation | Medium | 30 mins | [Recursion][Recursion]
 | 8.  | Valid Sudoku | Medium | 35 mins | [Matrix][Matrix]
 | 9.  | Group Anagrams | Medium | 25 mins | [String][String]
-| 10. | Maximum Product Subarray | Medium | 30 mins | [Dynamic Programming][DynamicProgramming]
+| 10. | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium | 30 mins | [Dynamic Programming](#-dynamic-programming)
 | 11. | Design Add and Search Words Data Structure | Medium | 35 mins | [Trie][Trie]
 | 12. | Pacific Atlantic Water Flow | Medium | 30 mins | [Graph][Graph]
 | 13. | Remove Nth Node From End of List | Medium | 20 mins | [Linked List][LinkedList]
