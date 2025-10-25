@@ -46,7 +46,7 @@ _Leaning easy medium challenges_
 
 ---
 
-#### Uncategorized, yet essential
+#### Also essential; Level not yet established
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | medium | concurrency
