@@ -23,16 +23,18 @@ _Moderately easy challenges; No edge case hell_
 |---------------------------------------------------------------------|------------|-----------
 | [two sum](https://leetcode.com/problems/two-sum/) [[🚀](https://neetcode.io/solutions/two-sum)] | easy | array, hash table
 | [invert binary tree](https://leetcode.com/problems/invert-binary-tree/) [[🚀](https://neetcode.io/solutions/invert-binary-tree)] | easy | binary tree, bfs, dfs
+| [design linked list](https://leetcode.com/problems/design-linked-list/) [[🚀](https://neetcode.io/solutions/design-linked-list)] | medium | linked list, low-level design
 
 
 ## 🐔 Level 3
 _Leaning easy medium challenges_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
-| [Remove Letter to Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | easy | counting, hash table, string
-| [Sort an Array](https://leetcode.com/problems/sort-an-array/) [[🚀](https://neetcode.io/solutions/sort-an-array)] | medium | array, divide & conquer, sorting
-| [Design HashMap](https://leetcode.com/problems/design-hashmap/) [[🚀](https://neetcode.io/problems/design-hashmap)] | easy | array, hash function, hash table, linked list, low-level design
-| [LRU Cache](https://leetcode.com/problems/lru-cache/) [[🚀](https://neetcode.io/solutions/lru-cache)] | medium | doubly linked list, hash table, low-level design
+| [remove letter to equalize frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | easy | counting, hash table, string
+| [sort an array](https://leetcode.com/problems/sort-an-array/) [[🚀](https://neetcode.io/solutions/sort-an-array)] | medium | array, divide & conquer, sorting
+| [design hashset](https://leetcode.com/problems/design-hashset/) [[🚀](https://neetcode.io/solutions/design-hashset)] | easy | array, hash function, hash table, linked list, low-level design
+| [design hashmap](https://leetcode.com/problems/design-hashmap/) [[🚀](https://neetcode.io/problems/design-hashmap)] | easy | array, hash function, hash table, linked list, low-level design
+| [lru cache](https://leetcode.com/problems/lru-cache/) [[🚀](https://neetcode.io/solutions/lru-cache)] | medium | doubly linked list, hash table, low-level design
 
 
 #### Level 4: _More difficult medium challenges_
@@ -49,6 +51,7 @@ _Leaning easy medium challenges_
 #### Also essential; Level not yet established
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
-| [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | medium | concurrency
-| [LFU Cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/solutions/lfu-cache)] | hard | doubly linked list, hash table, low-level design
+| [fizz buzz multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | medium | concurrency
+| [lfu cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/solutions/lfu-cache)] | hard | doubly linked list, hash table, low-level design
+| [design skiplist](https://leetcode.com/problems/design-skiplist/) | hard | linked list, low-level design
 
