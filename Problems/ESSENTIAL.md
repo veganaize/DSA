@@ -35,7 +35,7 @@ _Leaning easy medium challenges_
 | [LRU Cache](https://leetcode.com/problems/lru-cache/) [[🚀](https://neetcode.io/solutions/lru-cache)] | medium | doubly linked list, hash table, low-level design
 
 
-#### Level 4: _Moderate medium challenges_
+#### Level 4: _More difficult medium challenges_
 
 
 #### Level 5: _Not insanely difficult hard challenges_
