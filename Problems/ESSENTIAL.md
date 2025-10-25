@@ -50,4 +50,5 @@ _Leaning easy medium challenges_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | medium | concurrency
+| [LFU Cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/solutions/lfu-cache)] | hard | doubly linked list, hash table, low-level design
 
