@@ -14,7 +14,11 @@ _Very easy challenges_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [fizz buzz](https://leetcode.com/problems/fizz-buzz/)               | easy       | math, simulation, string
+| [running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/) | easy | array, prefix sum
+| [number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | easy | math, bit manipulation
+| [middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | easy | linked list, two pointers
 | [root equals sum of children](https://leetcode.com/problems/root-equals-sum-of-children/) | easy | binary tree
+| [richest customer wealth](https://leetcode.com/problems/richest-customer-wealth/) | easy | array, matrix
 
 
 ## 🐤 Level 2
@@ -22,6 +26,7 @@ _Moderately easy challenges; No edge case hell_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [two sum](https://leetcode.com/problems/two-sum/) [[🚀](https://neetcode.io/solutions/two-sum)] | easy | array, hash table
+| [ransom note](https://leetcode.com/problems/ransom-note/) | easy | counting, hash table, string
 | [invert binary tree](https://leetcode.com/problems/invert-binary-tree/) [[🚀](https://neetcode.io/solutions/invert-binary-tree)] | easy | binary tree, bfs, dfs
 | [design linked list](https://leetcode.com/problems/design-linked-list/) [[🚀](https://neetcode.io/solutions/design-linked-list)] | medium | linked list, low-level design
 
