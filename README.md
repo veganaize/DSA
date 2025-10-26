@@ -193,6 +193,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="24px" /> Videos
 
+- [Algorithms 1](https://youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V) - Stanford
+- [Algorithms 2](https://youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) - Stanford
+
 * BINARY TREES
   - [Binary tree traversal - breadth-first and depth-first strategies](https://youtu.be/9RHO6jU--GU) - mycodeschool
 * HASH TABLES
