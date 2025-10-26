@@ -17,6 +17,7 @@ _Very easy challenges_
 | [running sum of 1d array](https://leetcode.com/problems/running-sum-of-1d-array/) | easy | array, prefix sum
 | [number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | easy | math, bit manipulation
 | [middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) [[🚀](https://neetcode.io/solutions/middle-of-the-linked-list)] | easy | linked list, two pointers
+| [shuffle the array](https://leetcode.com/problems/shuffle-the-array/) [[🚀](https://neetcode.io/solutions/shuffle-the-array)] | easy | array
 | [root equals sum of children](https://leetcode.com/problems/root-equals-sum-of-children/) | easy | binary tree
 | [richest customer wealth](https://leetcode.com/problems/richest-customer-wealth/) | easy | array, matrix
 
