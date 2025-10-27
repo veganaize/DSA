@@ -249,6 +249,8 @@
 
 ## [_Grind 169_](https://www.techinterviewhandbook.org/grind75/)
 
+_5 hours per day; 6 days per week; spanning 5 weeks_
+
 ### Week 5
 
 |     | Question                   | Difficulty | Time    | Topic
