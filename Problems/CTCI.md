@@ -92,6 +92,7 @@ Recursion & Dynamic Programming
 
 |     | CTCI                      | LEET | GEEK
 |-----|---------------------------|------|-----
+|  0  | Nth Fibonacci Number      | 🟩 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 |  1  | Triple Step               | 🟩 [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 |  2  | Robot in a Grid           | 🟧 [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 |  3  | Magic Index               |    
