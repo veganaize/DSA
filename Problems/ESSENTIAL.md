@@ -61,3 +61,8 @@ _Leaning easy medium challenges_
 | [lfu cache](https://leetcode.com/problems/lfu-cache/) [[🚀](https://neetcode.io/solutions/lfu-cache)] | hard | doubly linked list, hash table, low-level design
 | [design skiplist](https://leetcode.com/problems/design-skiplist/) | hard | linked list, low-level design
 
+
+#### Dynamic Programming
+| problem                                                             | supposedly | categories
+|---------------------------------------------------------------------|------------|-----------
+| [fibonacci number](https://leetcode.com/problems/fibonacci-number/) | easy | math, dynamic programming, recursion, memoization
