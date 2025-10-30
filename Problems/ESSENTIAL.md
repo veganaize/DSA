@@ -65,4 +65,4 @@ _Leaning easy medium challenges_
 #### Dynamic Programming
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
-| [fibonacci number](https://leetcode.com/problems/fibonacci-number/) | easy | math, dynamic programming, recursion, memoization
+| [fibonacci number](https://leetcode.com/problems/fibonacci-number/) | easy | math, memoization, recursion
