@@ -166,19 +166,27 @@ Hard
 
 |     | CTCI                      | LEET | GEEK
 |-----|---------------------------|------|-----
+| H01 | Add Without Plus          | 🟧 [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers?envType=problem-list-v2&envId=ng7taa5v)
+| H02 | Shuffle                   | 🟧 [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array?envType=problem-list-v2&envId=ng7taa5v)
 | H04 | Missing Number            | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=ng7taa5v)*
+| H05 | Letters and Numbers       | 🟧 [Contiguous Array](https://leetcode.com/problems/contiguous-array?envType=problem-list-v2&envId=ng7taa5v)
 | H06 | Count of 2s               |
 | H07 | Baby Names                |
 | H08 | Circus Tower              |
 | H09 | Kth Multiple              |
+| H10 | Majority Element          | 🟩 [Majority Element](https://leetcode.com/problems/majority-element?envType=problem-list-v2&envId=ng7taa5v)
 | H11 | Word Distance             | 🟧 [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?envType=problem-list-v2&envId=ng7taa5v) 🔒
+| H12 | BiNode                    | 🟧 [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list?envType=problem-list-v2&envId=ng7taa5v)
 | H13 | Re-Space                  | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/?envType=problem-list-v2&envId=ng7taa5v)* | 🟧 [Word Break](https://www.geeksforgeeks.org/problems/word-break1352/1)*
 | H14 | Smallest K                | 🟧 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=problem-list-v2&envId=ng7taa5v)*
 | H15 | Longest Word              | 🟥 [Concatenated Words](https://leetcode.com/problems/concatenated-words/?envType=problem-list-v2&envId=ng7taa5v)*
 | H16 | The Masseuse              | 🟧 [House Robber](https://leetcode.com/problems/house-robber/?envType=problem-list-v2&envId=ng7taa5v)
 | H17 | Multi Search              |
+| H18 | Shortest Supersequence    | 🟥 [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/?envType=problem-list-v2&envId=ng7taa5v)* 🔒
 | H20 | Coninuous Median          | 🟥 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/?envType=problem-list-v2&envId=ng7taa5v)
+| H21 | Volume of Histogram       | 🟥 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water?envType=problem-list-v2&envId=ng7taa5v)
 | H22 | Word Transformer          | 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/?envType=problem-list-v2&envId=ng7taa5v)
+| H23 | Max Black Square          | 🟧 [Maximal Square](https://leetcode.com/problems/maximal-square?envType=problem-list-v2&envId=ng7taa5v)
 | H24 | Max Submatrix             |
 | H25 | Word Rectangle            |
 | H26 | Sparse Similarity         |
