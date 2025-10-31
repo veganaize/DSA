@@ -143,4 +143,44 @@ Sorting & Searching
 | H26 | Sparse Similarity         |
 
 
+Moderate
+--------
+
+|     | CTCI                      | LEET | GEEK
+|-----|---------------------------|------|-----
+| M08 | English Int               | 🟥 [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/?envType=problem-list-v2&envId=ng7taa5v)
+| M10 | Living People             |
+| M11 | Diving Board              |
+| M16 | Sub Sort                  | 🟧 [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/?envType=problem-list-v2&envId=ng7taa5v)
+| M17 | Contiguous Sequence       | 🟧 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=problem-list-v2&envId=ng7taa5v)
+| M21 | Sum Swap                  |      | 🟧 [Swapping pairs make sum equal](https://www.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1)
+| M22 | [Langton's Ant](https://en.wikipedia.org/wiki/Langton's_ant) 🌐 |
+| M24 | Pairs with Sum            | 🟧 [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/?envType=problem-list-v2&envId=ng7taa5v)
+| M25 | LRU Cache                 | 🟧 [LRU Cache](https://leetcode.com/problems/lru-cache/?envType=problem-list-v2&envId=ng7taa5v)
+| M26 | Calculator                | 🟧 [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/?envType=problem-list-v2&envId=ng7taa5v)
+
+
+Hard
+----
+
+|     | CTCI                      | LEET | GEEK
+|-----|---------------------------|------|-----
+| H04 | Missing Number            | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=ng7taa5v)*
+| H06 | Count of 2s               |
+| H07 | Baby Names                |
+| H08 | Circus Tower              |
+| H09 | Kth Multiple              |
+| H11 | Word Distance             | 🟧 [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/?envType=problem-list-v2&envId=ng7taa5v) 🔒
+| H13 | Re-Space                  | 🟥 [Word Break II](https://leetcode.com/problems/word-break-ii/?envType=problem-list-v2&envId=ng7taa5v)* | 🟧 [Word Break](https://www.geeksforgeeks.org/problems/word-break1352/1)*
+| H14 | Smallest K                | 🟧 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=problem-list-v2&envId=ng7taa5v)*
+| H15 | Longest Word              | 🟥 [Concatenated Words](https://leetcode.com/problems/concatenated-words/?envType=problem-list-v2&envId=ng7taa5v)*
+| H16 | The Masseuse              | 🟧 [House Robber](https://leetcode.com/problems/house-robber/?envType=problem-list-v2&envId=ng7taa5v)
+| H17 | Multi Search              |
+| H20 | Coninuous Median          | 🟥 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/?envType=problem-list-v2&envId=ng7taa5v)
+| H22 | Word Transformer          | 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/?envType=problem-list-v2&envId=ng7taa5v)
+| H24 | Max Submatrix             |
+| H25 | Word Rectangle            |
+| H26 | Sparse Similarity         |
+
+
 _* = Similar_
