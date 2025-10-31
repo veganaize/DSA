@@ -153,10 +153,16 @@ Moderate
 | M03 | Intersection              |
 | M04 | Tic Tac Win               | 🟩 [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game?envType=problem-list-v2&envId=ng7taa5v)
 | M05 | Factorial Zeros           | 🟧 [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes?envType=problem-list-v2&envId=ng7taa5v)
+| M06 | Samllest Difference       |
+| M07 | Number Max                |
 | M08 | English Int               | 🟥 [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/?envType=problem-list-v2&envId=ng7taa5v)
+| M09 | Operations                |
 | M10 | Living People             |
 | M11 | Diving Board              |
+| M12 | XML Encoding              |
+| M13 | Bisect Squares            |
 | M14 | Best Line                 | 🟥 [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line?envType=problem-list-v2&envId=ng7taa5v)
+| M15 | Master Mind               |
 | M16 | Sub Sort                  | 🟧 [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/?envType=problem-list-v2&envId=ng7taa5v)
 | M17 | Contiguous Sequence       | 🟧 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=problem-list-v2&envId=ng7taa5v)
 | M18 | Pattern Matcher           | 🟩 [Word Pattern](https://leetcode.com/problems/word-pattern?envType=problem-list-v2&envId=ng7taa5v)*
