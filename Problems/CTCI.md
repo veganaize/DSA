@@ -130,7 +130,7 @@ Sorting & Searching
 |  4  | Sorted Search, No Size    | 🟧 [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/?envType=problem-list-v2&envId=ng7taa5v) 🔒
 |  5  | Sparse Search             |
 |  6  | Sort Big File             |
-|  7  | Missint int               | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=ng7taa5v)*
+|  7  | Missing int               | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=ng7taa5v)*
 |  8  | Find Duplicates           | 🟧 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=ng7taa5v)
 |  9  | Sorted Matrix Search      | 🟧 [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/?envType=problem-list-v2&envId=ng7taa5v)
 | 10  | Rank from Stream          | 🟩 [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/?envType=problem-list-v2&envId=ng7taa5v)*
@@ -177,6 +177,7 @@ Hard
 |-----|---------------------------|------|-----
 | H01 | Add Without Plus          | 🟧 [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers?envType=problem-list-v2&envId=ng7taa5v)
 | H02 | Shuffle                   | 🟧 [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array?envType=problem-list-v2&envId=ng7taa5v)
+| H03 | Random Set                |
 | H04 | Missing Number            | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=ng7taa5v)*
 | H05 | Letters and Numbers       | 🟧 [Contiguous Array](https://leetcode.com/problems/contiguous-array?envType=problem-list-v2&envId=ng7taa5v)
 | H06 | Count of 2s               |
@@ -192,6 +193,7 @@ Hard
 | H16 | The Masseuse              | 🟧 [House Robber](https://leetcode.com/problems/house-robber/?envType=problem-list-v2&envId=ng7taa5v)
 | H17 | Multi Search              |
 | H18 | Shortest Supersequence    | 🟥 [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/?envType=problem-list-v2&envId=ng7taa5v)* 🔒
+| H19 | Missing Two               | 🟩 [Missing Number](https://leetcode.com/problems/missing-number/?envType=problem-list-v2&envId=ng7taa5v)*
 | H20 | Coninuous Median          | 🟥 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/?envType=problem-list-v2&envId=ng7taa5v)
 | H21 | Volume of Histogram       | 🟥 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water?envType=problem-list-v2&envId=ng7taa5v)
 | H22 | Word Transformer          | 🟥 [Word Ladder](https://leetcode.com/problems/word-ladder/?envType=problem-list-v2&envId=ng7taa5v)
