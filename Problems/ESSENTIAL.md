@@ -66,4 +66,6 @@ _Leaning easy medium challenges_
 | problem                                                             | supposedly | categories
 |---------------------------------------------------------------------|------------|-----------
 | [fibonacci number](https://leetcode.com/problems/fibonacci-number/) | easy       | math, memoization, recursion
-| [climbing stairs](https://leetcode.com/problems/climbing-stairs/)   | easy       | math, memoization
+| [climbing stairs](https://leetcode.com/problems/climbing-stairs/) [[🚀](https://neetcode.io/solutions/climbing-stairs)] | easy | math, memoization
+| [nth tribonacci number](https://leetcode.com/problems/n-th-tribonacci-number/) [[🚀](https://neetcode.io/solutions/n-th-tribonacci-number)] | easy | math, memoization
+| [min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [[🚀](https://neetcode.io/solutions/min-cost-climbing-stairs)] | easy | array
